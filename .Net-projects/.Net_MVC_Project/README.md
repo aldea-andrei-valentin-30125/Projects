@@ -1,2 +1,2 @@
-# NodeJs client-server project
-An simple client-server project in NodeJs with all CRUD methods .I use SQL server for database.
+# .Net MVC project
+The app built in is a basic food-delivery web site.This app allow access of 3 types of users(clients,restaurants and delivery man).Restaurants can add products and edit existed one. Clients can search for products, add restaurants to favorite and send orders. Delivery man can  accept and deliver orders send by clients and view all previous deliveries. 
