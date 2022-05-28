@@ -1,0 +1,31 @@
+<html>
+    <head>
+        <script type="text/javascript" src="libs/vue.js"></script>
+        <script type="text/javascript" src="libs/axios.js"></script>
+
+        <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@300&display=swap" rel="stylesheet" />
+        <link rel="stylesheet" href="styles/add-phone.css" />
+        <link rel="stylesheet" href="styles/vue-material.css" />
+    </head>
+    <body>
+        <a href="index.html" class="ahref">Home</a>
+        <div id="addPhone">
+            <p class="title">Adaugare telefon nou </p>
+           <span class="user" >Name:</span> <input type="text" v-model="phone.Name"><br>
+           <span class="user" >Brand:</span> <input type="text" v-model="phone.Brand"><br>
+           <span class="user" >Price:</span>  <input type="text" v-model="phone.Price"><br>
+           <span class="user" >Discount:</span> <input type="text" v-model="phone.Discount"><br>
+           <span class="user" >Color:</span> <input type="text" v-model="phone.Color"><br>
+           <span class="user" >Description:</span> <input type="text" v-model="phone.Description"><br>
+           <span class="user" >DisplayType:</span> <input type="text" v-model="phone.DisplayType"><br>
+           <span class="user" >RAMmemory:</span> <input type="text" v-model="phone.RAMmemory"><br>
+           <span class="user" >ReleaseDate:</span>  <input type="datetime-local" v-model="phone.ReleaseDate"><br>
+           <div class="container"><button  class="delete-btn" v-on:click="addPhone()">Save</button></div>
+
+            <p>{{message}}</p>
+
+        </div>
+
+        <script src="src/addPhone.js"></script>
+    </body>
+</html>

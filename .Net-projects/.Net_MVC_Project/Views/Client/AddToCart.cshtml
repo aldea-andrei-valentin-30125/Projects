@@ -1,0 +1,258 @@
+﻿@model MVCFinalProject.ViewModels.CartViewModel
+@{
+    ViewBag.Title = "Cart";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<head>
+
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+    <link href="https://fonts.googleapis.com/css?family=Poppins:300,400,500,600,700,800,900" rel="stylesheet">
+
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
+    <link rel="stylesheet" href="~/Content/cssP/style.css">
+    <link rel="stylesheet" href="~/Content/css/Cart.css">
+    <link rel="stylesheet" href="~/Content/css/styleee.css">
+    <link rel="stylesheet" href="~/Content/cssP/Page-2.css">
+
+
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta charset="utf-8">
+    <meta name="keywords" content="">
+    <meta name="description" content="">
+    <meta name="page_type" content="np-template-header-footer-from-plugin">
+
+    <link rel="stylesheet" href="~/Content/css/nicepage.css" media="screen">
+
+    <script class="u-script" type="text/javascript" src="js/jquery.js" defer=""></script>
+    <script class="u-script" type="text/javascript" src="js/nicepage.js" defer=""></script>
+    <meta name="generator" content="Nicepage 4.8.2, nicepage.com">
+    <link id="u-theme-google-font" rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:100,100i,300,300i,400,400i,500,500i,700,700i,900,900i|Open+Sans:300,300i,400,400i,500,500i,600,600i,700,700i,800,800i">
+
+
+    <script type="application/ld+json">
+        {
+
+        }</script>
+
+    <meta name="theme-color" content="#478ac9">
+    <meta property="og:type" content="website">
+
+</head>
+@*
+       <h2>ClienName: @Model.Clienti.Name</h2>
+    <br />
+    <h2>Adresa: @Model.Clienti.Adresa</h2>
+    <br />
+    <h2>ClienId: @Model.Clienti.Id</h2>
+    <br />
+    <h2>Produse:</h2>
+*@
+
+
+
+@if (Model.Produse.Count == 0)
+{
+    <div class="wrapper d-flex align-items-stretch">
+        <nav id="sidebar">
+
+            <div class="img bg-wrap text-center py-4">
+                <div class="user-logo">
+                    <div class="img" style="background-image: url(/Content/images/logoo.jfif);"></div>
+                    <h3>@Model.Clienti.Name</h3>
+                </div>
+            </div>
+            <ul class="list-unstyled components mb-5">
+                <li class="active">
+                    @*<a href="#"><span class="fa fa-home mr-3"></span> Home</a>*@
+                    @Html.ActionLink("Home", "Index")
+                </li>
+                <li>
+                    @Html.ActionLink("My profile", "ChangePassword", "Manage")
+                </li>
+                <li>
+                    @*<p><span class="fa fa-shopping-cart mr-3"></span>*@ @Html.ActionLink("My Order", "AddToCart", new { id = 0 })
+                </li>
+                <li>
+                    @*<a href="#"><span class="fa fa-heart mr-3"></span> My Favorites</a>*@
+                    @Html.ActionLink("My Favorites", "ViewFavorite")
+                </li>
+                <li>
+                    @Html.ActionLink("Log off", "Login", "Account")
+                </li>
+            </ul>
+
+        </nav>
+
+        <div class="u-clearfix u-gradient u-section-1" id="content" class="p-4 p-md-5 pt-5">
+            <h3 class="u-align-center u-text u-text-default u-text-white u-text-1">There are no products in your shopping cart!</h3>
+        </div>
+    </div>
+    
+}
+else
+{
+    <body class="pag">
+        <div class="wrapper d-flex align-items-stretch">
+            <nav id="sidebar">
+
+                <div class="img bg-wrap text-center py-4">
+                    <div class="user-logo">
+                        <div class="img" style="background-image: url(/Content/images/logoo.jfif);"></div>
+                        <h3>@Model.Clienti.Name</h3>
+                    </div>
+                </div>
+                <ul class="list-unstyled components mb-5">
+                    <li class="active">
+                        @*<a href="#"><span class="fa fa-home mr-3"></span> Home</a>*@
+                        @Html.ActionLink("Home", "Index")
+                    </li>
+                    <li>
+                        @Html.ActionLink("My profile", "ChangePassword", "Manage")
+                    </li>
+                    <li>
+                        @*<p><span class="fa fa-shopping-cart mr-3">@Html.ActionLink("My Order", "AddToCart", new { id = 0 })  </span>*@ @Html.ActionLink("My Order", "AddToCart", new { id = 0 })
+                    </li>
+                    <li>
+                        @*<a href="#"><span class="fa fa-heart mr-3"></span> My Favorites</a>*@
+                        @Html.ActionLink("My Favorites", "ViewFavorite")
+                    </li>
+                    <li>
+
+
+                        @Html.ActionLink("Log off", "Login", "Account")
+
+
+                    </li>
+                </ul>
+
+            </nav>
+
+            <section class="u-clearfix u-gradient u-section-1" id="sec-1319">
+                <div class="u-clearfix u-sheet u-sheet-1">
+                    <h2 class="u-custom-font u-font-georgia u-text u-text-default u-text-1">Shopping cart</h2>
+                    <div class="u-table u-table-responsive u-table-1">
+                        <table class="u-table-entity">
+
+                            <thead class="u-align-left u-custom-font u-font-georgia u-table-header u-table-header-1">
+                                <tr style="height: 53px;">
+                                    <th class="u-border-1 u-border-grey-dark-1 u-table-cell">
+                                        <h2 class="u-custom-font u-font-georgia u-text u-text-default u-text-2">Products</h2>
+
+                                    </th>
+                                    <th class="u-border-1 u-border-grey-dark-1 u-table-cell">
+
+                                        <h2 class="u-custom-font u-font-georgia u-text u-text-default u-text-2">Price</h2>
+
+                                </tr>
+                            </thead>
+                            <tbody class="u-table-body">
+                                @foreach (var item in Model.Produse)
+                                {
+
+
+                                    <tr style="height: 100px;">
+
+                                        <td class="u-border-1 u-border-grey-dark-1 u-table-cell">
+                                            
+                                            <h4 class="u-custom-font u-font-georgia u-text u-text-default u-text-8">@Html.DisplayFor(modelItem => item.Name)</h4>
+                                        </td>
+                                        <td class="u-border-1 u-border-grey-dark-1 u-table-cell">
+                                            <br>
+                                            <br>
+
+                                            <h4 class="u-custom-font u-font-georgia u-text u-text-default u-text-11"> @Html.DisplayFor(modelItem => item.Price)</h4>
+                                        </td>
+
+                                    </tr>
+
+
+
+                                }
+                            </tbody>
+                        </table>
+                    </div>
+
+                    <br>
+                    <br>
+                    <br>
+                    <br>
+
+                    <h2 class="u-custom-font u-font-georgia u-text u-text-default u-text-20">Info</h2>
+                    <div class="u-table u-table-responsive u-table-2">
+                        <table class="u-table-entity">
+
+                            <tbody>
+                                <tr>
+                                    <td class="u-border-1 u-border-grey-dark-1 u-table-cell">
+                                        <br><br><br><br>
+                                        <h3 class="u-custom-font u-font-georgia u-text u-text-default u-text-19">Details</h3>
+                                    </td>
+                                    <td class="u-border-1 u-border-grey-dark-1 u-table-cell">
+                                        <h3 class="u-custom-font u-font-georgia u-text u-text-default u-text-22">
+                                            Name: @Model.Clienti.Name
+                                        </h3>
+                                        <h3 class="u-custom-font u-font-georgia u-text u-text-default u-text-22">
+                                            Adress: @Model.Clienti.Adresa
+                                        </h3>
+                                    </td>
+                                </tr>
+                                
+                            </tbody>
+                        </table>
+                    </div>
+                    <br>
+                    <button class="u-border-2 u-border-hover-palette-1-base u-border-palette-1-base u-btn u-btn-round u-button-style u-hover-palette-1-base u-palette-1-light-2 u-radius-50 u-btn-1"> @Html.ActionLink("Send Command", "SendCommand")</button>
+                    <br>
+                    <br>
+                </div>
+            </section>
+
+        </div>
+        @*
+            <table class="table">
+                <tr>
+                    <th>
+                        <p>RestaurantID</p>
+                    </th>
+                    <th>
+                        <p>ID</p>
+                    </th>
+                    <th>
+                        <p>ProdusName</p>
+                    </th>
+                    <th>
+                        <p>ProdusPrice</p>
+                    </th>
+                </tr>
+
+                @foreach (var item in Model.Produse)
+                {
+                    <tr>
+                        <td>
+                            @Html.DisplayFor(modelItem => item.RestaurantId)
+                        </td>
+                        <td>
+                            @Html.DisplayFor(modelItem => item.Id)
+                        </td>
+                        <td>
+                            @Html.DisplayFor(modelItem => item.Name)
+                        </td>
+                        <td>
+                            @Html.DisplayFor(modelItem => item.Price)
+                        </td>
+
+                    </tr>
+                }
+
+            </table>
+
+            @Html.ActionLink("SendCommand", "SendCommand")*@
+
+    </body>
+}
+

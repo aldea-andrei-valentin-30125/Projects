@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta content="text/html;charset=utf-8" http-equiv="Content-Type" />
+  <meta content="utf-8" http-equiv="encoding" />
+  <title>Users manager</title>
+  <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@300&display=swap" rel="stylesheet" />
+  <link rel="stylesheet" href="styles/style.css" />
+  <link rel="stylesheet" href="styles/vue-material.css" />
+  <script type="text/javascript" src="libs/vue.js"></script>
+  <script type="text/javascript" src="libs/vue-material.js"></script>
+  <script type="text/javascript" src="libs/axios.js"></script>
+  <script type="text/javascript" src="src/users-service.js"></script>
+</head>
+
+<body>
+  <div id="app">
+
+    <div class="title">Phones</div>
+
+    <p style="text-align: center" v-if="phones.length == 0">No phones found</p>
+
+    <ul class="user-list" v-if="phones.length > 0">
+      <li>
+        <div class="user-row-header">
+          <div class="user-brand">Brand</div>
+          <div class="user-city">Name</div>
+          <div class="user-name">Price</div>
+          <div class="user-name"><a :href="'addPhone.html'">ADD Phones</a></div>
+        </div>
+      </li>
+
+      <li v-for="phone in phones">
+        <div class="">
+          <span class="user"><i>{{ phone.Brand }}</i></span>
+          <a :href="'details.html?id='+phone.Id" class="user-brand">{{ phone.Name }}</a>      
+          <span class="user"><i>{{ phone.Price }}</i></span>
+          <button class="delete-btn" v-on:click="deletePhone(phone.Id)">Delete</button>
+          <a :href="'update.html?id='+phone.Id" target="_self">Update</a>
+        </div>
+      </li>
+    </ul>
+  </div>
+  <script src="src/app.js"></script>
+</body>
+
+</html>

@@ -1,0 +1,26 @@
+﻿@model MVCFinalProject.Models.Restaurant
+@{
+    ViewBag.Title = "NewRestaurant";
+}
+
+<head>
+
+    <link rel="stylesheet" href="~/Content/css/rest2.css" type="text/css" />
+    <img class="img_logo" alt="Logo" src="@Url.Content("~/Content/logo1.jpeg")" />
+    <h2 class="new_rest">NEW Restaurant</h2>
+</head>
+
+
+@using (Html.BeginForm("Create", "Restaurante"))
+{
+    <div class="form-group">
+        @Html.LabelFor(m => m.Name)
+        @Html.TextBoxFor(m => m.Name)
+
+    </div>
+
+    <button type="submit" class="btn btn-primary ">
+        Add Restaurant
+    </button>
+
+}

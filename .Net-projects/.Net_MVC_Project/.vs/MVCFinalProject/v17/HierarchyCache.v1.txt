@@ -1,0 +1,419 @@
+﻿++Solution 'MVCFinalProject' ‎(1 of 1 project)
+i:{00000000-0000-0000-0000-000000000000}:MVCFinalProject.sln
+++MVCFinalProject
+i:{00000000-0000-0000-0000-000000000000}:MVCFinalProject
+++Properties
+i:{72894bc5-2044-40a8-aa39-367b204b5ec8}:c:\users\maria\desktop\nou nou\proiectii\mvcfinalproject\mvcfinalproject - copy\properties\
+++References
+i:{72894bc5-2044-40a8-aa39-367b204b5ec8}:
+++App_Data
+i:{72894bc5-2044-40a8-aa39-367b204b5ec8}:c:\users\maria\desktop\nou nou\proiectii\mvcfinalproject\mvcfinalproject - copy\app_data\
+++App_Start
+i:{72894bc5-2044-40a8-aa39-367b204b5ec8}:c:\users\maria\desktop\nou nou\proiectii\mvcfinalproject\mvcfinalproject - copy\app_start\
+++Content
+i:{72894bc5-2044-40a8-aa39-367b204b5ec8}:c:\users\maria\desktop\nou nou\proiectii\mvcfinalproject\mvcfinalproject - copy\content\
+++Controllers
+i:{72894bc5-2044-40a8-aa39-367b204b5ec8}:c:\users\maria\desktop\nou nou\proiectii\mvcfinalproject\mvcfinalproject - copy\controllers\
+++fonts
+i:{72894bc5-2044-40a8-aa39-367b204b5ec8}:c:\users\maria\desktop\nou nou\proiectii\mvcfinalproject\mvcfinalproject - copy\fonts\
+++Migrations
+i:{72894bc5-2044-40a8-aa39-367b204b5ec8}:c:\users\maria\desktop\nou nou\proiectii\mvcfinalproject\mvcfinalproject - copy\migrations\
+++Models
+i:{72894bc5-2044-40a8-aa39-367b204b5ec8}:c:\users\maria\desktop\nou nou\proiectii\mvcfinalproject\mvcfinalproject - copy\models\
+++Scripts
+i:{72894bc5-2044-40a8-aa39-367b204b5ec8}:c:\users\maria\desktop\nou nou\proiectii\mvcfinalproject\mvcfinalproject - copy\scripts\
+++ViewModels
+i:{72894bc5-2044-40a8-aa39-367b204b5ec8}:c:\users\maria\desktop\nou nou\proiectii\mvcfinalproject\mvcfinalproject - copy\viewmodels\
+++Views
+i:{72894bc5-2044-40a8-aa39-367b204b5ec8}:c:\users\maria\desktop\nou nou\proiectii\mvcfinalproject\mvcfinalproject - copy\views\
+++Account
+i:{72894bc5-2044-40a8-aa39-367b204b5ec8}:c:\users\maria\desktop\nou nou\proiectii\mvcfinalproject\mvcfinalproject - copy\views\account\
+++_ExternalLoginsListPartial.cshtml
+i:{72894bc5-2044-40a8-aa39-367b204b5ec8}:c:\users\maria\desktop\nou nou\proiectii\mvcfinalproject\mvcfinalproject - copy\views\account\_externalloginslistpartial.cshtml
+++ConfirmEmail.cshtml
+i:{72894bc5-2044-40a8-aa39-367b204b5ec8}:c:\users\maria\desktop\nou nou\proiectii\mvcfinalproject\mvcfinalproject - copy\views\account\confirmemail.cshtml
+++ExternalLoginConfirmation.cshtml
+i:{72894bc5-2044-40a8-aa39-367b204b5ec8}:c:\users\maria\desktop\nou nou\proiectii\mvcfinalproject\mvcfinalproject - copy\views\account\externalloginconfirmation.cshtml
+++ExternalLoginFailure.cshtml
+i:{72894bc5-2044-40a8-aa39-367b204b5ec8}:c:\users\maria\desktop\nou nou\proiectii\mvcfinalproject\mvcfinalproject - copy\views\account\externalloginfailure.cshtml
+++ForgotPassword.cshtml
+i:{72894bc5-2044-40a8-aa39-367b204b5ec8}:c:\users\maria\desktop\nou nou\proiectii\mvcfinalproject\mvcfinalproject - copy\views\account\forgotpassword.cshtml
+++ForgotPasswordConfirmation.cshtml
+i:{72894bc5-2044-40a8-aa39-367b204b5ec8}:c:\users\maria\desktop\nou nou\proiectii\mvcfinalproject\mvcfinalproject - copy\views\account\forgotpasswordconfirmation.cshtml
+++Login.cshtml
+i:{72894bc5-2044-40a8-aa39-367b204b5ec8}:c:\users\maria\desktop\nou nou\proiectii\mvcfinalproject\mvcfinalproject - copy\views\account\login.cshtml
+++Register.cshtml
+i:{72894bc5-2044-40a8-aa39-367b204b5ec8}:c:\users\maria\desktop\nou nou\proiectii\mvcfinalproject\mvcfinalproject - copy\views\account\register.cshtml
+++ResetPassword.cshtml
+i:{72894bc5-2044-40a8-aa39-367b204b5ec8}:c:\users\maria\desktop\nou nou\proiectii\mvcfinalproject\mvcfinalproject - copy\views\account\resetpassword.cshtml
+++ResetPasswordConfirmation.cshtml
+i:{72894bc5-2044-40a8-aa39-367b204b5ec8}:c:\users\maria\desktop\nou nou\proiectii\mvcfinalproject\mvcfinalproject - copy\views\account\resetpasswordconfirmation.cshtml
+++SendCode.cshtml
+i:{72894bc5-2044-40a8-aa39-367b204b5ec8}:c:\users\maria\desktop\nou nou\proiectii\mvcfinalproject\mvcfinalproject - copy\views\account\sendcode.cshtml
+++VerifyCode.cshtml
+i:{72894bc5-2044-40a8-aa39-367b204b5ec8}:c:\users\maria\desktop\nou nou\proiectii\mvcfinalproject\mvcfinalproject - copy\views\account\verifycode.cshtml
+++Client
+i:{72894bc5-2044-40a8-aa39-367b204b5ec8}:c:\users\maria\desktop\nou nou\proiectii\mvcfinalproject\mvcfinalproject - copy\views\client\
+++AddToCart.cshtml
+i:{72894bc5-2044-40a8-aa39-367b204b5ec8}:c:\users\maria\desktop\nou nou\proiectii\mvcfinalproject\mvcfinalproject - copy\views\client\addtocart.cshtml
+++Index.cshtml
+i:{72894bc5-2044-40a8-aa39-367b204b5ec8}:c:\users\maria\desktop\nou nou\proiectii\mvcfinalproject\mvcfinalproject - copy\views\client\index.cshtml
+i:{72894bc5-2044-40a8-aa39-367b204b5ec8}:c:\users\maria\desktop\nou nou\proiectii\mvcfinalproject\mvcfinalproject - copy\views\delivery\index.cshtml
+i:{72894bc5-2044-40a8-aa39-367b204b5ec8}:c:\users\maria\desktop\nou nou\proiectii\mvcfinalproject\mvcfinalproject - copy\views\home\index.cshtml
+i:{72894bc5-2044-40a8-aa39-367b204b5ec8}:c:\users\maria\desktop\nou nou\proiectii\mvcfinalproject\mvcfinalproject - copy\views\manage\index.cshtml
+i:{72894bc5-2044-40a8-aa39-367b204b5ec8}:c:\users\maria\desktop\nou nou\proiectii\mvcfinalproject\mvcfinalproject - copy\views\restaurante\index.cshtml
+++NewClient.cshtml
+i:{72894bc5-2044-40a8-aa39-367b204b5ec8}:c:\users\maria\desktop\nou nou\proiectii\mvcfinalproject\mvcfinalproject - copy\views\client\newclient.cshtml
+++ViewFavorite.cshtml
+i:{72894bc5-2044-40a8-aa39-367b204b5ec8}:c:\users\maria\desktop\nou nou\proiectii\mvcfinalproject\mvcfinalproject - copy\views\client\viewfavorite.cshtml
+++ViewProducts.cshtml
+i:{72894bc5-2044-40a8-aa39-367b204b5ec8}:c:\users\maria\desktop\nou nou\proiectii\mvcfinalproject\mvcfinalproject - copy\views\client\viewproducts.cshtml
+++Delivery
+i:{72894bc5-2044-40a8-aa39-367b204b5ec8}:c:\users\maria\desktop\nou nou\proiectii\mvcfinalproject\mvcfinalproject - copy\views\delivery\
+++Home
+i:{72894bc5-2044-40a8-aa39-367b204b5ec8}:c:\users\maria\desktop\nou nou\proiectii\mvcfinalproject\mvcfinalproject - copy\views\home\
+++Manage
+i:{72894bc5-2044-40a8-aa39-367b204b5ec8}:c:\users\maria\desktop\nou nou\proiectii\mvcfinalproject\mvcfinalproject - copy\views\manage\
+++Restaurante
+i:{72894bc5-2044-40a8-aa39-367b204b5ec8}:c:\users\maria\desktop\nou nou\proiectii\mvcfinalproject\mvcfinalproject - copy\views\restaurante\
+++Shared
+i:{72894bc5-2044-40a8-aa39-367b204b5ec8}:c:\users\maria\desktop\nou nou\proiectii\mvcfinalproject\mvcfinalproject - copy\views\shared\
+++_Layout.cshtml
+i:{72894bc5-2044-40a8-aa39-367b204b5ec8}:c:\users\maria\desktop\nou nou\proiectii\mvcfinalproject\mvcfinalproject - copy\views\shared\_layout.cshtml
+++_LoginPartial.cshtml
+i:{72894bc5-2044-40a8-aa39-367b204b5ec8}:c:\users\maria\desktop\nou nou\proiectii\mvcfinalproject\mvcfinalproject - copy\views\shared\_loginpartial.cshtml
+++Error.cshtml
+i:{72894bc5-2044-40a8-aa39-367b204b5ec8}:c:\users\maria\desktop\nou nou\proiectii\mvcfinalproject\mvcfinalproject - copy\views\shared\error.cshtml
+++Lockout.cshtml
+i:{72894bc5-2044-40a8-aa39-367b204b5ec8}:c:\users\maria\desktop\nou nou\proiectii\mvcfinalproject\mvcfinalproject - copy\views\shared\lockout.cshtml
+++_ViewStart.cshtml
+i:{72894bc5-2044-40a8-aa39-367b204b5ec8}:c:\users\maria\desktop\nou nou\proiectii\mvcfinalproject\mvcfinalproject - copy\views\_viewstart.cshtml
+++Web.config
+i:{72894bc5-2044-40a8-aa39-367b204b5ec8}:c:\users\maria\desktop\nou nou\proiectii\mvcfinalproject\mvcfinalproject - copy\views\web.config
+i:{72894bc5-2044-40a8-aa39-367b204b5ec8}:c:\users\maria\desktop\nou nou\proiectii\mvcfinalproject\mvcfinalproject - copy\web.config
+++favicon.ico
+i:{72894bc5-2044-40a8-aa39-367b204b5ec8}:c:\users\maria\desktop\nou nou\proiectii\mvcfinalproject\mvcfinalproject - copy\favicon.ico
+++Global.asax
+i:{72894bc5-2044-40a8-aa39-367b204b5ec8}:c:\users\maria\desktop\nou nou\proiectii\mvcfinalproject\mvcfinalproject - copy\global.asax
+++MyDBContext.cs
+i:{72894bc5-2044-40a8-aa39-367b204b5ec8}:c:\users\maria\desktop\nou nou\proiectii\mvcfinalproject\mvcfinalproject - copy\mydbcontext.cs
+++packages.config
+i:{72894bc5-2044-40a8-aa39-367b204b5ec8}:c:\users\maria\desktop\nou nou\proiectii\mvcfinalproject\mvcfinalproject - copy\packages.config
+++Startup.cs
+i:{72894bc5-2044-40a8-aa39-367b204b5ec8}:c:\users\maria\desktop\nou nou\proiectii\mvcfinalproject\mvcfinalproject - copy\startup.cs
+++AssemblyInfo.cs
+i:{72894bc5-2044-40a8-aa39-367b204b5ec8}:c:\users\maria\desktop\nou nou\proiectii\mvcfinalproject\mvcfinalproject - copy\properties\assemblyinfo.cs
+++Antlr3.Runtime
+i:{72894bc5-2044-40a8-aa39-367b204b5ec8}:
+++EntityFramework
+i:{72894bc5-2044-40a8-aa39-367b204b5ec8}:
+++EntityFramework.SqlServer
+i:{72894bc5-2044-40a8-aa39-367b204b5ec8}:
+++Microsoft.AspNet.Identity.Core
+i:{72894bc5-2044-40a8-aa39-367b204b5ec8}:
+++Microsoft.AspNet.Identity.EntityFramework
+i:{72894bc5-2044-40a8-aa39-367b204b5ec8}:
+++Microsoft.AspNet.Identity.Owin
+i:{72894bc5-2044-40a8-aa39-367b204b5ec8}:
+++Microsoft.Bcl.AsyncInterfaces
+i:{72894bc5-2044-40a8-aa39-367b204b5ec8}:
+++Microsoft.Bcl.HashCode
+i:{72894bc5-2044-40a8-aa39-367b204b5ec8}:
+++Microsoft.CodeDom.Providers.DotNetCompilerPlatform
+i:{72894bc5-2044-40a8-aa39-367b204b5ec8}:
+++Microsoft.CSharp
+i:{72894bc5-2044-40a8-aa39-367b204b5ec8}:
+++Microsoft.EntityFrameworkCore
+i:{72894bc5-2044-40a8-aa39-367b204b5ec8}:
+++Microsoft.EntityFrameworkCore.Abstractions
+i:{72894bc5-2044-40a8-aa39-367b204b5ec8}:
+++Microsoft.Extensions.Caching.Abstractions
+i:{72894bc5-2044-40a8-aa39-367b204b5ec8}:
+++Microsoft.Extensions.Caching.Memory
+i:{72894bc5-2044-40a8-aa39-367b204b5ec8}:
+++Microsoft.Extensions.Configuration
+i:{72894bc5-2044-40a8-aa39-367b204b5ec8}:
+++Microsoft.Extensions.Configuration.Abstractions
+i:{72894bc5-2044-40a8-aa39-367b204b5ec8}:
+++Microsoft.Extensions.Configuration.Binder
+i:{72894bc5-2044-40a8-aa39-367b204b5ec8}:
+++Microsoft.Extensions.DependencyInjection
+i:{72894bc5-2044-40a8-aa39-367b204b5ec8}:
+++Microsoft.Extensions.DependencyInjection.Abstractions
+i:{72894bc5-2044-40a8-aa39-367b204b5ec8}:
+++Microsoft.Extensions.Logging
+i:{72894bc5-2044-40a8-aa39-367b204b5ec8}:
+++Microsoft.Extensions.Logging.Abstractions
+i:{72894bc5-2044-40a8-aa39-367b204b5ec8}:
+++Microsoft.Extensions.Options
+i:{72894bc5-2044-40a8-aa39-367b204b5ec8}:
+++Microsoft.Extensions.Primitives
+i:{72894bc5-2044-40a8-aa39-367b204b5ec8}:
+++Microsoft.Owin
+i:{72894bc5-2044-40a8-aa39-367b204b5ec8}:
+++Microsoft.Owin.Host.SystemWeb
+i:{72894bc5-2044-40a8-aa39-367b204b5ec8}:
+++Microsoft.Owin.Security
+i:{72894bc5-2044-40a8-aa39-367b204b5ec8}:
+++Microsoft.Owin.Security.Cookies
+i:{72894bc5-2044-40a8-aa39-367b204b5ec8}:
+++Microsoft.Owin.Security.Google
+i:{72894bc5-2044-40a8-aa39-367b204b5ec8}:
+++Microsoft.Owin.Security.MicrosoftAccount
+i:{72894bc5-2044-40a8-aa39-367b204b5ec8}:
+++Microsoft.Owin.Security.OAuth
+i:{72894bc5-2044-40a8-aa39-367b204b5ec8}:
+++Microsoft.Owin.Security.Twitter
+i:{72894bc5-2044-40a8-aa39-367b204b5ec8}:
+++Microsoft.Web.Infrastructure
+i:{72894bc5-2044-40a8-aa39-367b204b5ec8}:
+++Newtonsoft.Json
+i:{72894bc5-2044-40a8-aa39-367b204b5ec8}:
+++Owin
+i:{72894bc5-2044-40a8-aa39-367b204b5ec8}:
+++System
+i:{72894bc5-2044-40a8-aa39-367b204b5ec8}:
+++System.Buffers
+i:{72894bc5-2044-40a8-aa39-367b204b5ec8}:
+++System.Collections.Immutable
+i:{72894bc5-2044-40a8-aa39-367b204b5ec8}:
+++System.ComponentModel.Annotations
+i:{72894bc5-2044-40a8-aa39-367b204b5ec8}:
+++System.ComponentModel.DataAnnotations
+i:{72894bc5-2044-40a8-aa39-367b204b5ec8}:
+++System.Configuration
+i:{72894bc5-2044-40a8-aa39-367b204b5ec8}:
+++System.Core
+i:{72894bc5-2044-40a8-aa39-367b204b5ec8}:
+++System.Data
+i:{72894bc5-2044-40a8-aa39-367b204b5ec8}:
+++System.Data.DataSetExtensions
+i:{72894bc5-2044-40a8-aa39-367b204b5ec8}:
+++System.Diagnostics.DiagnosticSource
+i:{72894bc5-2044-40a8-aa39-367b204b5ec8}:
+++System.Drawing
+i:{72894bc5-2044-40a8-aa39-367b204b5ec8}:
+++System.EnterpriseServices
+i:{72894bc5-2044-40a8-aa39-367b204b5ec8}:
+++System.Memory
+i:{72894bc5-2044-40a8-aa39-367b204b5ec8}:
+++System.Net.Http
+i:{72894bc5-2044-40a8-aa39-367b204b5ec8}:
+++System.Net.Http.WebRequest
+i:{72894bc5-2044-40a8-aa39-367b204b5ec8}:
+++System.Numerics
+i:{72894bc5-2044-40a8-aa39-367b204b5ec8}:
+++System.Numerics.Vectors
+i:{72894bc5-2044-40a8-aa39-367b204b5ec8}:
+++System.Runtime.CompilerServices.Unsafe
+i:{72894bc5-2044-40a8-aa39-367b204b5ec8}:
+++System.Threading.Tasks.Extensions
+i:{72894bc5-2044-40a8-aa39-367b204b5ec8}:
+++System.Web
+i:{72894bc5-2044-40a8-aa39-367b204b5ec8}:
+++System.Web.Abstractions
+i:{72894bc5-2044-40a8-aa39-367b204b5ec8}:
+++System.Web.ApplicationServices
+i:{72894bc5-2044-40a8-aa39-367b204b5ec8}:
+++System.Web.DynamicData
+i:{72894bc5-2044-40a8-aa39-367b204b5ec8}:
+++System.Web.Entity
+i:{72894bc5-2044-40a8-aa39-367b204b5ec8}:
+++System.Web.Extensions
+i:{72894bc5-2044-40a8-aa39-367b204b5ec8}:
+++System.Web.Helpers
+i:{72894bc5-2044-40a8-aa39-367b204b5ec8}:
+++System.Web.Mvc
+i:{72894bc5-2044-40a8-aa39-367b204b5ec8}:
+++System.Web.Optimization
+i:{72894bc5-2044-40a8-aa39-367b204b5ec8}:
+++System.Web.Razor
+i:{72894bc5-2044-40a8-aa39-367b204b5ec8}:
+++System.Web.Routing
+i:{72894bc5-2044-40a8-aa39-367b204b5ec8}:
+++System.Web.Services
+i:{72894bc5-2044-40a8-aa39-367b204b5ec8}:
+++System.Web.WebPages
+i:{72894bc5-2044-40a8-aa39-367b204b5ec8}:
+++System.Web.WebPages.Deployment
+i:{72894bc5-2044-40a8-aa39-367b204b5ec8}:
+++System.Web.WebPages.Razor
+i:{72894bc5-2044-40a8-aa39-367b204b5ec8}:
+++System.Xml
+i:{72894bc5-2044-40a8-aa39-367b204b5ec8}:
+++System.Xml.Linq
+i:{72894bc5-2044-40a8-aa39-367b204b5ec8}:
+++WebGrease
+i:{72894bc5-2044-40a8-aa39-367b204b5ec8}:
+++BundleConfig.cs
+i:{72894bc5-2044-40a8-aa39-367b204b5ec8}:c:\users\maria\desktop\nou nou\proiectii\mvcfinalproject\mvcfinalproject - copy\app_start\bundleconfig.cs
+++FilterConfig.cs
+i:{72894bc5-2044-40a8-aa39-367b204b5ec8}:c:\users\maria\desktop\nou nou\proiectii\mvcfinalproject\mvcfinalproject - copy\app_start\filterconfig.cs
+++IdentityConfig.cs
+i:{72894bc5-2044-40a8-aa39-367b204b5ec8}:c:\users\maria\desktop\nou nou\proiectii\mvcfinalproject\mvcfinalproject - copy\app_start\identityconfig.cs
+++RouteConfig.cs
+i:{72894bc5-2044-40a8-aa39-367b204b5ec8}:c:\users\maria\desktop\nou nou\proiectii\mvcfinalproject\mvcfinalproject - copy\app_start\routeconfig.cs
+++Startup.Auth.cs
+i:{72894bc5-2044-40a8-aa39-367b204b5ec8}:c:\users\maria\desktop\nou nou\proiectii\mvcfinalproject\mvcfinalproject - copy\app_start\startup.auth.cs
+++bootstrap-theme.css
+i:{72894bc5-2044-40a8-aa39-367b204b5ec8}:c:\users\maria\desktop\nou nou\proiectii\mvcfinalproject\mvcfinalproject - copy\content\bootstrap-theme.css
+++bootstrap-theme.css.map
+i:{72894bc5-2044-40a8-aa39-367b204b5ec8}:c:\users\maria\desktop\nou nou\proiectii\mvcfinalproject\mvcfinalproject - copy\content\bootstrap-theme.css.map
+++bootstrap-theme.min.css
+i:{72894bc5-2044-40a8-aa39-367b204b5ec8}:c:\users\maria\desktop\nou nou\proiectii\mvcfinalproject\mvcfinalproject - copy\content\bootstrap-theme.min.css
+++bootstrap-theme.min.css.map
+i:{72894bc5-2044-40a8-aa39-367b204b5ec8}:c:\users\maria\desktop\nou nou\proiectii\mvcfinalproject\mvcfinalproject - copy\content\bootstrap-theme.min.css.map
+++bootstrap.css
+i:{72894bc5-2044-40a8-aa39-367b204b5ec8}:c:\users\maria\desktop\nou nou\proiectii\mvcfinalproject\mvcfinalproject - copy\content\bootstrap.css
+++bootstrap.css.map
+i:{72894bc5-2044-40a8-aa39-367b204b5ec8}:c:\users\maria\desktop\nou nou\proiectii\mvcfinalproject\mvcfinalproject - copy\content\bootstrap.css.map
+++bootstrap.min.css
+i:{72894bc5-2044-40a8-aa39-367b204b5ec8}:c:\users\maria\desktop\nou nou\proiectii\mvcfinalproject\mvcfinalproject - copy\content\bootstrap.min.css
+++bootstrap.min.css.map
+i:{72894bc5-2044-40a8-aa39-367b204b5ec8}:c:\users\maria\desktop\nou nou\proiectii\mvcfinalproject\mvcfinalproject - copy\content\bootstrap.min.css.map
+++Site.css
+i:{72894bc5-2044-40a8-aa39-367b204b5ec8}:c:\users\maria\desktop\nou nou\proiectii\mvcfinalproject\mvcfinalproject - copy\content\site.css
+++AccountController.cs
+i:{72894bc5-2044-40a8-aa39-367b204b5ec8}:c:\users\maria\desktop\nou nou\proiectii\mvcfinalproject\mvcfinalproject - copy\controllers\accountcontroller.cs
+++ClientController.cs
+i:{72894bc5-2044-40a8-aa39-367b204b5ec8}:c:\users\maria\desktop\nou nou\proiectii\mvcfinalproject\mvcfinalproject - copy\controllers\clientcontroller.cs
+++DeliveryController.cs
+i:{72894bc5-2044-40a8-aa39-367b204b5ec8}:c:\users\maria\desktop\nou nou\proiectii\mvcfinalproject\mvcfinalproject - copy\controllers\deliverycontroller.cs
+++HomeController.cs
+i:{72894bc5-2044-40a8-aa39-367b204b5ec8}:c:\users\maria\desktop\nou nou\proiectii\mvcfinalproject\mvcfinalproject - copy\controllers\homecontroller.cs
+++ManageController.cs
+i:{72894bc5-2044-40a8-aa39-367b204b5ec8}:c:\users\maria\desktop\nou nou\proiectii\mvcfinalproject\mvcfinalproject - copy\controllers\managecontroller.cs
+++RestauranteController.cs
+i:{72894bc5-2044-40a8-aa39-367b204b5ec8}:c:\users\maria\desktop\nou nou\proiectii\mvcfinalproject\mvcfinalproject - copy\controllers\restaurantecontroller.cs
+++glyphicons-halflings-regular.eot
+i:{72894bc5-2044-40a8-aa39-367b204b5ec8}:c:\users\maria\desktop\nou nou\proiectii\mvcfinalproject\mvcfinalproject - copy\fonts\glyphicons-halflings-regular.eot
+++glyphicons-halflings-regular.svg
+i:{72894bc5-2044-40a8-aa39-367b204b5ec8}:c:\users\maria\desktop\nou nou\proiectii\mvcfinalproject\mvcfinalproject - copy\fonts\glyphicons-halflings-regular.svg
+++glyphicons-halflings-regular.ttf
+i:{72894bc5-2044-40a8-aa39-367b204b5ec8}:c:\users\maria\desktop\nou nou\proiectii\mvcfinalproject\mvcfinalproject - copy\fonts\glyphicons-halflings-regular.ttf
+++glyphicons-halflings-regular.woff
+i:{72894bc5-2044-40a8-aa39-367b204b5ec8}:c:\users\maria\desktop\nou nou\proiectii\mvcfinalproject\mvcfinalproject - copy\fonts\glyphicons-halflings-regular.woff
+++glyphicons-halflings-regular.woff2
+i:{72894bc5-2044-40a8-aa39-367b204b5ec8}:c:\users\maria\desktop\nou nou\proiectii\mvcfinalproject\mvcfinalproject - copy\fonts\glyphicons-halflings-regular.woff2
+++202205081752376_InitialModel.cs
+i:{72894bc5-2044-40a8-aa39-367b204b5ec8}:c:\users\maria\desktop\nou nou\proiectii\mvcfinalproject\mvcfinalproject - copy\migrations\202205081752376_initialmodel.cs
+++202205081812074_CreateDatabase.cs
+i:{72894bc5-2044-40a8-aa39-367b204b5ec8}:c:\users\maria\desktop\nou nou\proiectii\mvcfinalproject\mvcfinalproject - copy\migrations\202205081812074_createdatabase.cs
+++202205161314543_CreateTables.cs
+i:{72894bc5-2044-40a8-aa39-367b204b5ec8}:c:\users\maria\desktop\nou nou\proiectii\mvcfinalproject\mvcfinalproject - copy\migrations\202205161314543_createtables.cs
+++Configuration.cs
+i:{72894bc5-2044-40a8-aa39-367b204b5ec8}:c:\users\maria\desktop\nou nou\proiectii\mvcfinalproject\mvcfinalproject - copy\migrations\configuration.cs
+++AccountViewModels.cs
+i:{72894bc5-2044-40a8-aa39-367b204b5ec8}:c:\users\maria\desktop\nou nou\proiectii\mvcfinalproject\mvcfinalproject - copy\models\accountviewmodels.cs
+++Cart.cs
+i:{72894bc5-2044-40a8-aa39-367b204b5ec8}:c:\users\maria\desktop\nou nou\proiectii\mvcfinalproject\mvcfinalproject - copy\models\cart.cs
+++Client.cs
+i:{72894bc5-2044-40a8-aa39-367b204b5ec8}:c:\users\maria\desktop\nou nou\proiectii\mvcfinalproject\mvcfinalproject - copy\models\client.cs
+++Delivery.cs
+i:{72894bc5-2044-40a8-aa39-367b204b5ec8}:c:\users\maria\desktop\nou nou\proiectii\mvcfinalproject\mvcfinalproject - copy\models\delivery.cs
+++FavoriteRestaurant.cs
+i:{72894bc5-2044-40a8-aa39-367b204b5ec8}:c:\users\maria\desktop\nou nou\proiectii\mvcfinalproject\mvcfinalproject - copy\models\favoriterestaurant.cs
+++IdentityModels.cs
+i:{72894bc5-2044-40a8-aa39-367b204b5ec8}:c:\users\maria\desktop\nou nou\proiectii\mvcfinalproject\mvcfinalproject - copy\models\identitymodels.cs
+++ManageViewModels.cs
+i:{72894bc5-2044-40a8-aa39-367b204b5ec8}:c:\users\maria\desktop\nou nou\proiectii\mvcfinalproject\mvcfinalproject - copy\models\manageviewmodels.cs
+++Order.cs
+i:{72894bc5-2044-40a8-aa39-367b204b5ec8}:c:\users\maria\desktop\nou nou\proiectii\mvcfinalproject\mvcfinalproject - copy\models\order.cs
+++OrderItem.cs
+i:{72894bc5-2044-40a8-aa39-367b204b5ec8}:c:\users\maria\desktop\nou nou\proiectii\mvcfinalproject\mvcfinalproject - copy\models\orderitem.cs
+++Produs.cs
+i:{72894bc5-2044-40a8-aa39-367b204b5ec8}:c:\users\maria\desktop\nou nou\proiectii\mvcfinalproject\mvcfinalproject - copy\models\produs.cs
+++Restaurant.cs
+i:{72894bc5-2044-40a8-aa39-367b204b5ec8}:c:\users\maria\desktop\nou nou\proiectii\mvcfinalproject\mvcfinalproject - copy\models\restaurant.cs
+++bootstrap.js
+i:{72894bc5-2044-40a8-aa39-367b204b5ec8}:c:\users\maria\desktop\nou nou\proiectii\mvcfinalproject\mvcfinalproject - copy\scripts\bootstrap.js
+++bootstrap.min.js
+i:{72894bc5-2044-40a8-aa39-367b204b5ec8}:c:\users\maria\desktop\nou nou\proiectii\mvcfinalproject\mvcfinalproject - copy\scripts\bootstrap.min.js
+++jquery-3.4.1.intellisense.js
+i:{72894bc5-2044-40a8-aa39-367b204b5ec8}:c:\users\maria\desktop\nou nou\proiectii\mvcfinalproject\mvcfinalproject - copy\scripts\jquery-3.4.1.intellisense.js
+++jquery-3.4.1.js
+i:{72894bc5-2044-40a8-aa39-367b204b5ec8}:c:\users\maria\desktop\nou nou\proiectii\mvcfinalproject\mvcfinalproject - copy\scripts\jquery-3.4.1.js
+++jquery-3.4.1.min.js
+i:{72894bc5-2044-40a8-aa39-367b204b5ec8}:c:\users\maria\desktop\nou nou\proiectii\mvcfinalproject\mvcfinalproject - copy\scripts\jquery-3.4.1.min.js
+++jquery-3.4.1.min.map
+i:{72894bc5-2044-40a8-aa39-367b204b5ec8}:c:\users\maria\desktop\nou nou\proiectii\mvcfinalproject\mvcfinalproject - copy\scripts\jquery-3.4.1.min.map
+++jquery-3.4.1.slim.js
+i:{72894bc5-2044-40a8-aa39-367b204b5ec8}:c:\users\maria\desktop\nou nou\proiectii\mvcfinalproject\mvcfinalproject - copy\scripts\jquery-3.4.1.slim.js
+++jquery-3.4.1.slim.min.js
+i:{72894bc5-2044-40a8-aa39-367b204b5ec8}:c:\users\maria\desktop\nou nou\proiectii\mvcfinalproject\mvcfinalproject - copy\scripts\jquery-3.4.1.slim.min.js
+++jquery-3.4.1.slim.min.map
+i:{72894bc5-2044-40a8-aa39-367b204b5ec8}:c:\users\maria\desktop\nou nou\proiectii\mvcfinalproject\mvcfinalproject - copy\scripts\jquery-3.4.1.slim.min.map
+++jquery.validate-vsdoc.js
+i:{72894bc5-2044-40a8-aa39-367b204b5ec8}:c:\users\maria\desktop\nou nou\proiectii\mvcfinalproject\mvcfinalproject - copy\scripts\jquery.validate-vsdoc.js
+++jquery.validate.js
+i:{72894bc5-2044-40a8-aa39-367b204b5ec8}:c:\users\maria\desktop\nou nou\proiectii\mvcfinalproject\mvcfinalproject - copy\scripts\jquery.validate.js
+++jquery.validate.min.js
+i:{72894bc5-2044-40a8-aa39-367b204b5ec8}:c:\users\maria\desktop\nou nou\proiectii\mvcfinalproject\mvcfinalproject - copy\scripts\jquery.validate.min.js
+++jquery.validate.unobtrusive.js
+i:{72894bc5-2044-40a8-aa39-367b204b5ec8}:c:\users\maria\desktop\nou nou\proiectii\mvcfinalproject\mvcfinalproject - copy\scripts\jquery.validate.unobtrusive.js
+++jquery.validate.unobtrusive.min.js
+i:{72894bc5-2044-40a8-aa39-367b204b5ec8}:c:\users\maria\desktop\nou nou\proiectii\mvcfinalproject\mvcfinalproject - copy\scripts\jquery.validate.unobtrusive.min.js
+++modernizr-2.8.3.js
+i:{72894bc5-2044-40a8-aa39-367b204b5ec8}:c:\users\maria\desktop\nou nou\proiectii\mvcfinalproject\mvcfinalproject - copy\scripts\modernizr-2.8.3.js
+++CartViewModel.cs
+i:{72894bc5-2044-40a8-aa39-367b204b5ec8}:c:\users\maria\desktop\nou nou\proiectii\mvcfinalproject\mvcfinalproject - copy\viewmodels\cartviewmodel.cs
+++DeliveryDetailsViewModel.cs
+i:{72894bc5-2044-40a8-aa39-367b204b5ec8}:c:\users\maria\desktop\nou nou\proiectii\mvcfinalproject\mvcfinalproject - copy\viewmodels\deliverydetailsviewmodel.cs
+++DeliveryHistoryViewModel.cs
+i:{72894bc5-2044-40a8-aa39-367b204b5ec8}:c:\users\maria\desktop\nou nou\proiectii\mvcfinalproject\mvcfinalproject - copy\viewmodels\deliveryhistoryviewmodel.cs
+++EditProductViewModel.cs
+i:{72894bc5-2044-40a8-aa39-367b204b5ec8}:c:\users\maria\desktop\nou nou\proiectii\mvcfinalproject\mvcfinalproject - copy\viewmodels\editproductviewmodel.cs
+++OrderDeliveryViewModel.cs
+i:{72894bc5-2044-40a8-aa39-367b204b5ec8}:c:\users\maria\desktop\nou nou\proiectii\mvcfinalproject\mvcfinalproject - copy\viewmodels\orderdeliveryviewmodel.cs
+++RandomRestaurantViewModels.cs
+i:{72894bc5-2044-40a8-aa39-367b204b5ec8}:c:\users\maria\desktop\nou nou\proiectii\mvcfinalproject\mvcfinalproject - copy\viewmodels\randomrestaurantviewmodels.cs
+++RestauranteClientViewModel.cs
+i:{72894bc5-2044-40a8-aa39-367b204b5ec8}:c:\users\maria\desktop\nou nou\proiectii\mvcfinalproject\mvcfinalproject - copy\viewmodels\restauranteclientviewmodel.cs
+++AcceptCommand.cshtml
+i:{72894bc5-2044-40a8-aa39-367b204b5ec8}:c:\users\maria\desktop\nou nou\proiectii\mvcfinalproject\mvcfinalproject - copy\views\delivery\acceptcommand.cshtml
+++CurrentOrders.cshtml
+i:{72894bc5-2044-40a8-aa39-367b204b5ec8}:c:\users\maria\desktop\nou nou\proiectii\mvcfinalproject\mvcfinalproject - copy\views\delivery\currentorders.cshtml
+++HistoryOrders.cshtml
+i:{72894bc5-2044-40a8-aa39-367b204b5ec8}:c:\users\maria\desktop\nou nou\proiectii\mvcfinalproject\mvcfinalproject - copy\views\delivery\historyorders.cshtml
+++NewDelivery.cshtml
+i:{72894bc5-2044-40a8-aa39-367b204b5ec8}:c:\users\maria\desktop\nou nou\proiectii\mvcfinalproject\mvcfinalproject - copy\views\delivery\newdelivery.cshtml
+++About.cshtml
+i:{72894bc5-2044-40a8-aa39-367b204b5ec8}:c:\users\maria\desktop\nou nou\proiectii\mvcfinalproject\mvcfinalproject - copy\views\home\about.cshtml
+++Contact.cshtml
+i:{72894bc5-2044-40a8-aa39-367b204b5ec8}:c:\users\maria\desktop\nou nou\proiectii\mvcfinalproject\mvcfinalproject - copy\views\home\contact.cshtml
+++DeliveryView.cshtml
+i:{72894bc5-2044-40a8-aa39-367b204b5ec8}:c:\users\maria\desktop\nou nou\proiectii\mvcfinalproject\mvcfinalproject - copy\views\home\deliveryview.cshtml
+++AddPhoneNumber.cshtml
+i:{72894bc5-2044-40a8-aa39-367b204b5ec8}:c:\users\maria\desktop\nou nou\proiectii\mvcfinalproject\mvcfinalproject - copy\views\manage\addphonenumber.cshtml
+++ChangePassword.cshtml
+i:{72894bc5-2044-40a8-aa39-367b204b5ec8}:c:\users\maria\desktop\nou nou\proiectii\mvcfinalproject\mvcfinalproject - copy\views\manage\changepassword.cshtml
+++ManageLogins.cshtml
+i:{72894bc5-2044-40a8-aa39-367b204b5ec8}:c:\users\maria\desktop\nou nou\proiectii\mvcfinalproject\mvcfinalproject - copy\views\manage\managelogins.cshtml
+++SetPassword.cshtml
+i:{72894bc5-2044-40a8-aa39-367b204b5ec8}:c:\users\maria\desktop\nou nou\proiectii\mvcfinalproject\mvcfinalproject - copy\views\manage\setpassword.cshtml
+++VerifyPhoneNumber.cshtml
+i:{72894bc5-2044-40a8-aa39-367b204b5ec8}:c:\users\maria\desktop\nou nou\proiectii\mvcfinalproject\mvcfinalproject - copy\views\manage\verifyphonenumber.cshtml
+++EditProduct.cshtml
+i:{72894bc5-2044-40a8-aa39-367b204b5ec8}:c:\users\maria\desktop\nou nou\proiectii\mvcfinalproject\mvcfinalproject - copy\views\restaurante\editproduct.cshtml
+++newProduct.cshtml
+i:{72894bc5-2044-40a8-aa39-367b204b5ec8}:c:\users\maria\desktop\nou nou\proiectii\mvcfinalproject\mvcfinalproject - copy\views\restaurante\newproduct.cshtml
+++NewRestaurant.cshtml
+i:{72894bc5-2044-40a8-aa39-367b204b5ec8}:c:\users\maria\desktop\nou nou\proiectii\mvcfinalproject\mvcfinalproject - copy\views\restaurante\newrestaurant.cshtml
+++Global.asax.cs
+i:{72894bc5-2044-40a8-aa39-367b204b5ec8}:c:\users\maria\desktop\nou nou\proiectii\mvcfinalproject\mvcfinalproject - copy\global.asax.cs
+++Web.Debug.config
+i:{72894bc5-2044-40a8-aa39-367b204b5ec8}:c:\users\maria\desktop\nou nou\proiectii\mvcfinalproject\mvcfinalproject - copy\web.debug.config
+++Web.Release.config
+i:{72894bc5-2044-40a8-aa39-367b204b5ec8}:c:\users\maria\desktop\nou nou\proiectii\mvcfinalproject\mvcfinalproject - copy\web.release.config
+++202205081752376_InitialModel.designer.cs
+i:{72894bc5-2044-40a8-aa39-367b204b5ec8}:c:\users\maria\desktop\nou nou\proiectii\mvcfinalproject\mvcfinalproject - copy\migrations\202205081752376_initialmodel.designer.cs
+++202205081752376_InitialModel.resx
+i:{72894bc5-2044-40a8-aa39-367b204b5ec8}:c:\users\maria\desktop\nou nou\proiectii\mvcfinalproject\mvcfinalproject - copy\migrations\202205081752376_initialmodel.resx
+++202205081812074_CreateDatabase.designer.cs
+i:{72894bc5-2044-40a8-aa39-367b204b5ec8}:c:\users\maria\desktop\nou nou\proiectii\mvcfinalproject\mvcfinalproject - copy\migrations\202205081812074_createdatabase.designer.cs
+++202205081812074_CreateDatabase.resx
+i:{72894bc5-2044-40a8-aa39-367b204b5ec8}:c:\users\maria\desktop\nou nou\proiectii\mvcfinalproject\mvcfinalproject - copy\migrations\202205081812074_createdatabase.resx
+++202205161314543_CreateTables.designer.cs
+i:{72894bc5-2044-40a8-aa39-367b204b5ec8}:c:\users\maria\desktop\nou nou\proiectii\mvcfinalproject\mvcfinalproject - copy\migrations\202205161314543_createtables.designer.cs
+++202205161314543_CreateTables.resx
+i:{72894bc5-2044-40a8-aa39-367b204b5ec8}:c:\users\maria\desktop\nou nou\proiectii\mvcfinalproject\mvcfinalproject - copy\migrations\202205161314543_createtables.resx

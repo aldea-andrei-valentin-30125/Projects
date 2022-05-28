@@ -1,0 +1,552 @@
+D:\FACULTATE\AN3_2\II\MVCFinalProject\bin\MVCFinalProject.dll.config
+D:\FACULTATE\AN3_2\II\MVCFinalProject\bin\MVCFinalProject.dll
+D:\FACULTATE\AN3_2\II\MVCFinalProject\bin\MVCFinalProject.pdb
+D:\FACULTATE\AN3_2\II\MVCFinalProject\bin\roslyn\csc.exe
+D:\FACULTATE\AN3_2\II\MVCFinalProject\bin\roslyn\csc.exe.config
+D:\FACULTATE\AN3_2\II\MVCFinalProject\bin\roslyn\csc.rsp
+D:\FACULTATE\AN3_2\II\MVCFinalProject\bin\roslyn\csi.exe
+D:\FACULTATE\AN3_2\II\MVCFinalProject\bin\roslyn\csi.exe.config
+D:\FACULTATE\AN3_2\II\MVCFinalProject\bin\roslyn\csi.rsp
+D:\FACULTATE\AN3_2\II\MVCFinalProject\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\FACULTATE\AN3_2\II\MVCFinalProject\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\FACULTATE\AN3_2\II\MVCFinalProject\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\FACULTATE\AN3_2\II\MVCFinalProject\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\FACULTATE\AN3_2\II\MVCFinalProject\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\FACULTATE\AN3_2\II\MVCFinalProject\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\FACULTATE\AN3_2\II\MVCFinalProject\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\FACULTATE\AN3_2\II\MVCFinalProject\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\FACULTATE\AN3_2\II\MVCFinalProject\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\FACULTATE\AN3_2\II\MVCFinalProject\bin\roslyn\Microsoft.Managed.Core.targets
+D:\FACULTATE\AN3_2\II\MVCFinalProject\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\FACULTATE\AN3_2\II\MVCFinalProject\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\FACULTATE\AN3_2\II\MVCFinalProject\bin\roslyn\System.AppContext.dll
+D:\FACULTATE\AN3_2\II\MVCFinalProject\bin\roslyn\System.Collections.Immutable.dll
+D:\FACULTATE\AN3_2\II\MVCFinalProject\bin\roslyn\System.Console.dll
+D:\FACULTATE\AN3_2\II\MVCFinalProject\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\FACULTATE\AN3_2\II\MVCFinalProject\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\FACULTATE\AN3_2\II\MVCFinalProject\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\FACULTATE\AN3_2\II\MVCFinalProject\bin\roslyn\System.Globalization.Calendars.dll
+D:\FACULTATE\AN3_2\II\MVCFinalProject\bin\roslyn\System.IO.Compression.dll
+D:\FACULTATE\AN3_2\II\MVCFinalProject\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\FACULTATE\AN3_2\II\MVCFinalProject\bin\roslyn\System.IO.FileSystem.dll
+D:\FACULTATE\AN3_2\II\MVCFinalProject\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\FACULTATE\AN3_2\II\MVCFinalProject\bin\roslyn\System.Net.Http.dll
+D:\FACULTATE\AN3_2\II\MVCFinalProject\bin\roslyn\System.Net.Sockets.dll
+D:\FACULTATE\AN3_2\II\MVCFinalProject\bin\roslyn\System.Reflection.Metadata.dll
+D:\FACULTATE\AN3_2\II\MVCFinalProject\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\FACULTATE\AN3_2\II\MVCFinalProject\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\FACULTATE\AN3_2\II\MVCFinalProject\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\FACULTATE\AN3_2\II\MVCFinalProject\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\FACULTATE\AN3_2\II\MVCFinalProject\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\FACULTATE\AN3_2\II\MVCFinalProject\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\FACULTATE\AN3_2\II\MVCFinalProject\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\FACULTATE\AN3_2\II\MVCFinalProject\bin\roslyn\System.ValueTuple.dll
+D:\FACULTATE\AN3_2\II\MVCFinalProject\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\FACULTATE\AN3_2\II\MVCFinalProject\bin\roslyn\System.Xml.XmlDocument.dll
+D:\FACULTATE\AN3_2\II\MVCFinalProject\bin\roslyn\System.Xml.XPath.dll
+D:\FACULTATE\AN3_2\II\MVCFinalProject\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\FACULTATE\AN3_2\II\MVCFinalProject\bin\roslyn\vbc.exe
+D:\FACULTATE\AN3_2\II\MVCFinalProject\bin\roslyn\vbc.exe.config
+D:\FACULTATE\AN3_2\II\MVCFinalProject\bin\roslyn\vbc.rsp
+D:\FACULTATE\AN3_2\II\MVCFinalProject\bin\roslyn\VBCSCompiler.exe
+D:\FACULTATE\AN3_2\II\MVCFinalProject\bin\roslyn\VBCSCompiler.exe.config
+D:\FACULTATE\AN3_2\II\MVCFinalProject\bin\Antlr3.Runtime.dll
+D:\FACULTATE\AN3_2\II\MVCFinalProject\bin\EntityFramework.dll
+D:\FACULTATE\AN3_2\II\MVCFinalProject\bin\EntityFramework.SqlServer.dll
+D:\FACULTATE\AN3_2\II\MVCFinalProject\bin\Microsoft.AspNet.Identity.Core.dll
+D:\FACULTATE\AN3_2\II\MVCFinalProject\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\FACULTATE\AN3_2\II\MVCFinalProject\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\FACULTATE\AN3_2\II\MVCFinalProject\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\FACULTATE\AN3_2\II\MVCFinalProject\bin\Microsoft.Owin.dll
+D:\FACULTATE\AN3_2\II\MVCFinalProject\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\FACULTATE\AN3_2\II\MVCFinalProject\bin\Microsoft.Owin.Security.Cookies.dll
+D:\FACULTATE\AN3_2\II\MVCFinalProject\bin\Microsoft.Owin.Security.dll
+D:\FACULTATE\AN3_2\II\MVCFinalProject\bin\Microsoft.Owin.Security.Facebook.dll
+D:\FACULTATE\AN3_2\II\MVCFinalProject\bin\Microsoft.Owin.Security.Google.dll
+D:\FACULTATE\AN3_2\II\MVCFinalProject\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\FACULTATE\AN3_2\II\MVCFinalProject\bin\Microsoft.Owin.Security.OAuth.dll
+D:\FACULTATE\AN3_2\II\MVCFinalProject\bin\Microsoft.Owin.Security.Twitter.dll
+D:\FACULTATE\AN3_2\II\MVCFinalProject\bin\Microsoft.Web.Infrastructure.dll
+D:\FACULTATE\AN3_2\II\MVCFinalProject\bin\Newtonsoft.Json.dll
+D:\FACULTATE\AN3_2\II\MVCFinalProject\bin\Owin.dll
+D:\FACULTATE\AN3_2\II\MVCFinalProject\bin\System.Web.Helpers.dll
+D:\FACULTATE\AN3_2\II\MVCFinalProject\bin\System.Web.Mvc.dll
+D:\FACULTATE\AN3_2\II\MVCFinalProject\bin\System.Web.Optimization.dll
+D:\FACULTATE\AN3_2\II\MVCFinalProject\bin\System.Web.Razor.dll
+D:\FACULTATE\AN3_2\II\MVCFinalProject\bin\System.Web.WebPages.Deployment.dll
+D:\FACULTATE\AN3_2\II\MVCFinalProject\bin\System.Web.WebPages.dll
+D:\FACULTATE\AN3_2\II\MVCFinalProject\bin\System.Web.WebPages.Razor.dll
+D:\FACULTATE\AN3_2\II\MVCFinalProject\bin\WebGrease.dll
+D:\FACULTATE\AN3_2\II\MVCFinalProject\bin\System.Web.Helpers.xml
+D:\FACULTATE\AN3_2\II\MVCFinalProject\bin\System.Web.Mvc.xml
+D:\FACULTATE\AN3_2\II\MVCFinalProject\bin\System.Web.Optimization.xml
+D:\FACULTATE\AN3_2\II\MVCFinalProject\bin\System.Web.Razor.xml
+D:\FACULTATE\AN3_2\II\MVCFinalProject\bin\System.Web.WebPages.xml
+D:\FACULTATE\AN3_2\II\MVCFinalProject\bin\System.Web.WebPages.Deployment.xml
+D:\FACULTATE\AN3_2\II\MVCFinalProject\bin\System.Web.WebPages.Razor.xml
+D:\FACULTATE\AN3_2\II\MVCFinalProject\bin\Newtonsoft.Json.xml
+D:\FACULTATE\AN3_2\II\MVCFinalProject\bin\Antlr3.Runtime.pdb
+D:\FACULTATE\AN3_2\II\MVCFinalProject\bin\EntityFramework.xml
+D:\FACULTATE\AN3_2\II\MVCFinalProject\bin\EntityFramework.SqlServer.xml
+D:\FACULTATE\AN3_2\II\MVCFinalProject\bin\Microsoft.AspNet.Identity.Core.xml
+D:\FACULTATE\AN3_2\II\MVCFinalProject\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\FACULTATE\AN3_2\II\MVCFinalProject\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\FACULTATE\AN3_2\II\MVCFinalProject\bin\Microsoft.Owin.xml
+D:\FACULTATE\AN3_2\II\MVCFinalProject\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\FACULTATE\AN3_2\II\MVCFinalProject\bin\Microsoft.Owin.Security.xml
+D:\FACULTATE\AN3_2\II\MVCFinalProject\bin\Microsoft.Owin.Security.Facebook.xml
+D:\FACULTATE\AN3_2\II\MVCFinalProject\bin\Microsoft.Owin.Security.Cookies.xml
+D:\FACULTATE\AN3_2\II\MVCFinalProject\bin\Microsoft.Owin.Security.Google.xml
+D:\FACULTATE\AN3_2\II\MVCFinalProject\bin\Microsoft.Owin.Security.Twitter.xml
+D:\FACULTATE\AN3_2\II\MVCFinalProject\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\FACULTATE\AN3_2\II\MVCFinalProject\bin\Microsoft.Owin.Security.OAuth.xml
+D:\FACULTATE\AN3_2\II\MVCFinalProject\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\FACULTATE\AN3_2\II\MVCFinalProject\obj\Debug\MVCFinalProject.csproj.AssemblyReference.cache
+D:\FACULTATE\AN3_2\II\MVCFinalProject\obj\Debug\MVCFinalProject.csproj.CoreCompileInputs.cache
+D:\FACULTATE\AN3_2\II\MVCFinalProject\obj\Debug\MVCFinalProject.csproj.CopyComplete
+D:\FACULTATE\AN3_2\II\MVCFinalProject\obj\Debug\MVCFinalProject.dll
+D:\FACULTATE\AN3_2\II\MVCFinalProject\obj\Debug\MVCFinalProject.pdb
+D:\FACULTATE\AN3_2\II\MVCFinalProject\obj\Debug\MVCFinalProject.Migrations.InitialModel.resources
+D:\FACULTATE\AN3_2\II\MVCFinalProject\obj\Debug\MVCFinalProject.csproj.GenerateResource.cache
+D:\FACULTATE\AN3_2\II\MVCFinalProject\obj\Debug\MVCFinalProject.Migrations.CreateDatabase.resources
+D:\FACULTATE\AN3_2\II\MVCFinalProject\obj\Debug\MVCFinalProject.Migrations.CreateTableReestaurant.resources
+D:\FACULTATE\AN3_2\II\MVCFinalProject\obj\Debug\MVCFinalProject.Migrations.FixID.resources
+D:\FACULTATE\AN3_2\II\MVCFinalProject\obj\Debug\MVCFinalProject.Migrations.Fix.resources
+D:\FACULTATE\AN3_2\II\MVCFinalProject\obj\Debug\MVCFinalProject.Migrations.fixRestaurantId.resources
+D:\FACULTATE\AN3_2\II\MVCFinalProject\obj\Debug\MVCFinalProject.Migrations.TableClienti.resources
+D:\FACULTATE\AN3_2\II\MVCFinalProject\obj\Debug\MVCFinalProject.Migrations.AddCartTable.resources
+D:\FACULTATE\AN3_2\II\MVCFinalProject\obj\Debug\MVCFinalProject.Migrations.FixCartTable.resources
+D:\FACULTATE\AN3_2\II\MVCFinalProject\obj\Debug\MVCFinalProject.Migrations.AddCartPrice.resources
+C:\Users\maria\Desktop\MVCFinalProject - Copy\bin\MVCFinalProject.dll.config
+C:\Users\maria\Desktop\MVCFinalProject - Copy\bin\MVCFinalProject.dll
+C:\Users\maria\Desktop\MVCFinalProject - Copy\bin\MVCFinalProject.pdb
+C:\Users\maria\Desktop\MVCFinalProject - Copy\bin\roslyn\csc.exe
+C:\Users\maria\Desktop\MVCFinalProject - Copy\bin\roslyn\csc.exe.config
+C:\Users\maria\Desktop\MVCFinalProject - Copy\bin\roslyn\csc.rsp
+C:\Users\maria\Desktop\MVCFinalProject - Copy\bin\roslyn\csi.exe
+C:\Users\maria\Desktop\MVCFinalProject - Copy\bin\roslyn\csi.exe.config
+C:\Users\maria\Desktop\MVCFinalProject - Copy\bin\roslyn\csi.rsp
+C:\Users\maria\Desktop\MVCFinalProject - Copy\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\maria\Desktop\MVCFinalProject - Copy\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\maria\Desktop\MVCFinalProject - Copy\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\maria\Desktop\MVCFinalProject - Copy\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\maria\Desktop\MVCFinalProject - Copy\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\maria\Desktop\MVCFinalProject - Copy\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\maria\Desktop\MVCFinalProject - Copy\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\maria\Desktop\MVCFinalProject - Copy\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\maria\Desktop\MVCFinalProject - Copy\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\maria\Desktop\MVCFinalProject - Copy\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\maria\Desktop\MVCFinalProject - Copy\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\maria\Desktop\MVCFinalProject - Copy\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\maria\Desktop\MVCFinalProject - Copy\bin\roslyn\System.AppContext.dll
+C:\Users\maria\Desktop\MVCFinalProject - Copy\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\maria\Desktop\MVCFinalProject - Copy\bin\roslyn\System.Console.dll
+C:\Users\maria\Desktop\MVCFinalProject - Copy\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\maria\Desktop\MVCFinalProject - Copy\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\maria\Desktop\MVCFinalProject - Copy\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\maria\Desktop\MVCFinalProject - Copy\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\maria\Desktop\MVCFinalProject - Copy\bin\roslyn\System.IO.Compression.dll
+C:\Users\maria\Desktop\MVCFinalProject - Copy\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\maria\Desktop\MVCFinalProject - Copy\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\maria\Desktop\MVCFinalProject - Copy\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\maria\Desktop\MVCFinalProject - Copy\bin\roslyn\System.Net.Http.dll
+C:\Users\maria\Desktop\MVCFinalProject - Copy\bin\roslyn\System.Net.Sockets.dll
+C:\Users\maria\Desktop\MVCFinalProject - Copy\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\maria\Desktop\MVCFinalProject - Copy\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\maria\Desktop\MVCFinalProject - Copy\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\maria\Desktop\MVCFinalProject - Copy\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\maria\Desktop\MVCFinalProject - Copy\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\maria\Desktop\MVCFinalProject - Copy\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\maria\Desktop\MVCFinalProject - Copy\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\maria\Desktop\MVCFinalProject - Copy\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\maria\Desktop\MVCFinalProject - Copy\bin\roslyn\System.ValueTuple.dll
+C:\Users\maria\Desktop\MVCFinalProject - Copy\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\maria\Desktop\MVCFinalProject - Copy\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\maria\Desktop\MVCFinalProject - Copy\bin\roslyn\System.Xml.XPath.dll
+C:\Users\maria\Desktop\MVCFinalProject - Copy\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\maria\Desktop\MVCFinalProject - Copy\bin\roslyn\vbc.exe
+C:\Users\maria\Desktop\MVCFinalProject - Copy\bin\roslyn\vbc.exe.config
+C:\Users\maria\Desktop\MVCFinalProject - Copy\bin\roslyn\vbc.rsp
+C:\Users\maria\Desktop\MVCFinalProject - Copy\bin\roslyn\VBCSCompiler.exe
+C:\Users\maria\Desktop\MVCFinalProject - Copy\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\maria\Desktop\MVCFinalProject - Copy\bin\Antlr3.Runtime.dll
+C:\Users\maria\Desktop\MVCFinalProject - Copy\bin\EntityFramework.dll
+C:\Users\maria\Desktop\MVCFinalProject - Copy\bin\EntityFramework.SqlServer.dll
+C:\Users\maria\Desktop\MVCFinalProject - Copy\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\maria\Desktop\MVCFinalProject - Copy\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\maria\Desktop\MVCFinalProject - Copy\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\maria\Desktop\MVCFinalProject - Copy\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\maria\Desktop\MVCFinalProject - Copy\bin\Microsoft.Owin.dll
+C:\Users\maria\Desktop\MVCFinalProject - Copy\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\maria\Desktop\MVCFinalProject - Copy\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\maria\Desktop\MVCFinalProject - Copy\bin\Microsoft.Owin.Security.dll
+C:\Users\maria\Desktop\MVCFinalProject - Copy\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\maria\Desktop\MVCFinalProject - Copy\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\maria\Desktop\MVCFinalProject - Copy\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\maria\Desktop\MVCFinalProject - Copy\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\maria\Desktop\MVCFinalProject - Copy\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\maria\Desktop\MVCFinalProject - Copy\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\maria\Desktop\MVCFinalProject - Copy\bin\Newtonsoft.Json.dll
+C:\Users\maria\Desktop\MVCFinalProject - Copy\bin\Owin.dll
+C:\Users\maria\Desktop\MVCFinalProject - Copy\bin\System.Web.Helpers.dll
+C:\Users\maria\Desktop\MVCFinalProject - Copy\bin\System.Web.Mvc.dll
+C:\Users\maria\Desktop\MVCFinalProject - Copy\bin\System.Web.Optimization.dll
+C:\Users\maria\Desktop\MVCFinalProject - Copy\bin\System.Web.Razor.dll
+C:\Users\maria\Desktop\MVCFinalProject - Copy\bin\System.Web.WebPages.Deployment.dll
+C:\Users\maria\Desktop\MVCFinalProject - Copy\bin\System.Web.WebPages.dll
+C:\Users\maria\Desktop\MVCFinalProject - Copy\bin\System.Web.WebPages.Razor.dll
+C:\Users\maria\Desktop\MVCFinalProject - Copy\bin\WebGrease.dll
+C:\Users\maria\Desktop\MVCFinalProject - Copy\bin\System.Web.Helpers.xml
+C:\Users\maria\Desktop\MVCFinalProject - Copy\bin\System.Web.Mvc.xml
+C:\Users\maria\Desktop\MVCFinalProject - Copy\bin\System.Web.Optimization.xml
+C:\Users\maria\Desktop\MVCFinalProject - Copy\bin\System.Web.Razor.xml
+C:\Users\maria\Desktop\MVCFinalProject - Copy\bin\System.Web.WebPages.xml
+C:\Users\maria\Desktop\MVCFinalProject - Copy\bin\System.Web.WebPages.Deployment.xml
+C:\Users\maria\Desktop\MVCFinalProject - Copy\bin\System.Web.WebPages.Razor.xml
+C:\Users\maria\Desktop\MVCFinalProject - Copy\bin\Newtonsoft.Json.xml
+C:\Users\maria\Desktop\MVCFinalProject - Copy\bin\Antlr3.Runtime.pdb
+C:\Users\maria\Desktop\MVCFinalProject - Copy\bin\EntityFramework.xml
+C:\Users\maria\Desktop\MVCFinalProject - Copy\bin\EntityFramework.SqlServer.xml
+C:\Users\maria\Desktop\MVCFinalProject - Copy\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\maria\Desktop\MVCFinalProject - Copy\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\maria\Desktop\MVCFinalProject - Copy\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\maria\Desktop\MVCFinalProject - Copy\bin\Microsoft.Owin.xml
+C:\Users\maria\Desktop\MVCFinalProject - Copy\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\maria\Desktop\MVCFinalProject - Copy\bin\Microsoft.Owin.Security.xml
+C:\Users\maria\Desktop\MVCFinalProject - Copy\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\maria\Desktop\MVCFinalProject - Copy\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\maria\Desktop\MVCFinalProject - Copy\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\maria\Desktop\MVCFinalProject - Copy\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\maria\Desktop\MVCFinalProject - Copy\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\maria\Desktop\MVCFinalProject - Copy\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\maria\Desktop\MVCFinalProject - Copy\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\maria\Desktop\MVCFinalProject - Copy\obj\Debug\MVCFinalProject.csproj.AssemblyReference.cache
+C:\Users\maria\Desktop\MVCFinalProject - Copy\obj\Debug\MVCFinalProject.Migrations.InitialModel.resources
+C:\Users\maria\Desktop\MVCFinalProject - Copy\obj\Debug\MVCFinalProject.Migrations.CreateDatabase.resources
+C:\Users\maria\Desktop\MVCFinalProject - Copy\obj\Debug\MVCFinalProject.Migrations.CreateTableReestaurant.resources
+C:\Users\maria\Desktop\MVCFinalProject - Copy\obj\Debug\MVCFinalProject.Migrations.FixID.resources
+C:\Users\maria\Desktop\MVCFinalProject - Copy\obj\Debug\MVCFinalProject.Migrations.Fix.resources
+C:\Users\maria\Desktop\MVCFinalProject - Copy\obj\Debug\MVCFinalProject.Migrations.fixRestaurantId.resources
+C:\Users\maria\Desktop\MVCFinalProject - Copy\obj\Debug\MVCFinalProject.Migrations.TableClienti.resources
+C:\Users\maria\Desktop\MVCFinalProject - Copy\obj\Debug\MVCFinalProject.Migrations.AddCartTable.resources
+C:\Users\maria\Desktop\MVCFinalProject - Copy\obj\Debug\MVCFinalProject.Migrations.FixCartTable.resources
+C:\Users\maria\Desktop\MVCFinalProject - Copy\obj\Debug\MVCFinalProject.Migrations.AddCartPrice.resources
+C:\Users\maria\Desktop\MVCFinalProject - Copy\obj\Debug\MVCFinalProject.csproj.GenerateResource.cache
+C:\Users\maria\Desktop\MVCFinalProject - Copy\obj\Debug\MVCFinalProject.csproj.CoreCompileInputs.cache
+C:\Users\maria\Desktop\MVCFinalProject - Copy\obj\Debug\MVCFinalProject.csproj.CopyComplete
+C:\Users\maria\Desktop\MVCFinalProject - Copy\obj\Debug\MVCFinalProject.dll
+C:\Users\maria\Desktop\MVCFinalProject - Copy\obj\Debug\MVCFinalProject.pdb
+D:\FACULTATE\AN3_2\PROIECTII\ProiectII\MVCFinalProject - Copy\MVCFinalProject - Copy\bin\MVCFinalProject.dll.config
+D:\FACULTATE\AN3_2\PROIECTII\ProiectII\MVCFinalProject - Copy\MVCFinalProject - Copy\bin\MVCFinalProject.dll
+D:\FACULTATE\AN3_2\PROIECTII\ProiectII\MVCFinalProject - Copy\MVCFinalProject - Copy\bin\MVCFinalProject.pdb
+D:\FACULTATE\AN3_2\PROIECTII\ProiectII\MVCFinalProject - Copy\MVCFinalProject - Copy\bin\roslyn\csc.exe
+D:\FACULTATE\AN3_2\PROIECTII\ProiectII\MVCFinalProject - Copy\MVCFinalProject - Copy\bin\roslyn\csc.exe.config
+D:\FACULTATE\AN3_2\PROIECTII\ProiectII\MVCFinalProject - Copy\MVCFinalProject - Copy\bin\roslyn\csc.rsp
+D:\FACULTATE\AN3_2\PROIECTII\ProiectII\MVCFinalProject - Copy\MVCFinalProject - Copy\bin\roslyn\csi.exe
+D:\FACULTATE\AN3_2\PROIECTII\ProiectII\MVCFinalProject - Copy\MVCFinalProject - Copy\bin\roslyn\csi.exe.config
+D:\FACULTATE\AN3_2\PROIECTII\ProiectII\MVCFinalProject - Copy\MVCFinalProject - Copy\bin\roslyn\csi.rsp
+D:\FACULTATE\AN3_2\PROIECTII\ProiectII\MVCFinalProject - Copy\MVCFinalProject - Copy\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\FACULTATE\AN3_2\PROIECTII\ProiectII\MVCFinalProject - Copy\MVCFinalProject - Copy\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\FACULTATE\AN3_2\PROIECTII\ProiectII\MVCFinalProject - Copy\MVCFinalProject - Copy\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\FACULTATE\AN3_2\PROIECTII\ProiectII\MVCFinalProject - Copy\MVCFinalProject - Copy\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\FACULTATE\AN3_2\PROIECTII\ProiectII\MVCFinalProject - Copy\MVCFinalProject - Copy\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\FACULTATE\AN3_2\PROIECTII\ProiectII\MVCFinalProject - Copy\MVCFinalProject - Copy\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\FACULTATE\AN3_2\PROIECTII\ProiectII\MVCFinalProject - Copy\MVCFinalProject - Copy\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\FACULTATE\AN3_2\PROIECTII\ProiectII\MVCFinalProject - Copy\MVCFinalProject - Copy\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\FACULTATE\AN3_2\PROIECTII\ProiectII\MVCFinalProject - Copy\MVCFinalProject - Copy\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\FACULTATE\AN3_2\PROIECTII\ProiectII\MVCFinalProject - Copy\MVCFinalProject - Copy\bin\roslyn\Microsoft.Managed.Core.targets
+D:\FACULTATE\AN3_2\PROIECTII\ProiectII\MVCFinalProject - Copy\MVCFinalProject - Copy\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\FACULTATE\AN3_2\PROIECTII\ProiectII\MVCFinalProject - Copy\MVCFinalProject - Copy\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\FACULTATE\AN3_2\PROIECTII\ProiectII\MVCFinalProject - Copy\MVCFinalProject - Copy\bin\roslyn\System.AppContext.dll
+D:\FACULTATE\AN3_2\PROIECTII\ProiectII\MVCFinalProject - Copy\MVCFinalProject - Copy\bin\roslyn\System.Collections.Immutable.dll
+D:\FACULTATE\AN3_2\PROIECTII\ProiectII\MVCFinalProject - Copy\MVCFinalProject - Copy\bin\roslyn\System.Console.dll
+D:\FACULTATE\AN3_2\PROIECTII\ProiectII\MVCFinalProject - Copy\MVCFinalProject - Copy\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\FACULTATE\AN3_2\PROIECTII\ProiectII\MVCFinalProject - Copy\MVCFinalProject - Copy\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\FACULTATE\AN3_2\PROIECTII\ProiectII\MVCFinalProject - Copy\MVCFinalProject - Copy\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\FACULTATE\AN3_2\PROIECTII\ProiectII\MVCFinalProject - Copy\MVCFinalProject - Copy\bin\roslyn\System.Globalization.Calendars.dll
+D:\FACULTATE\AN3_2\PROIECTII\ProiectII\MVCFinalProject - Copy\MVCFinalProject - Copy\bin\roslyn\System.IO.Compression.dll
+D:\FACULTATE\AN3_2\PROIECTII\ProiectII\MVCFinalProject - Copy\MVCFinalProject - Copy\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\FACULTATE\AN3_2\PROIECTII\ProiectII\MVCFinalProject - Copy\MVCFinalProject - Copy\bin\roslyn\System.IO.FileSystem.dll
+D:\FACULTATE\AN3_2\PROIECTII\ProiectII\MVCFinalProject - Copy\MVCFinalProject - Copy\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\FACULTATE\AN3_2\PROIECTII\ProiectII\MVCFinalProject - Copy\MVCFinalProject - Copy\bin\roslyn\System.Net.Http.dll
+D:\FACULTATE\AN3_2\PROIECTII\ProiectII\MVCFinalProject - Copy\MVCFinalProject - Copy\bin\roslyn\System.Net.Sockets.dll
+D:\FACULTATE\AN3_2\PROIECTII\ProiectII\MVCFinalProject - Copy\MVCFinalProject - Copy\bin\roslyn\System.Reflection.Metadata.dll
+D:\FACULTATE\AN3_2\PROIECTII\ProiectII\MVCFinalProject - Copy\MVCFinalProject - Copy\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\FACULTATE\AN3_2\PROIECTII\ProiectII\MVCFinalProject - Copy\MVCFinalProject - Copy\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\FACULTATE\AN3_2\PROIECTII\ProiectII\MVCFinalProject - Copy\MVCFinalProject - Copy\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\FACULTATE\AN3_2\PROIECTII\ProiectII\MVCFinalProject - Copy\MVCFinalProject - Copy\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\FACULTATE\AN3_2\PROIECTII\ProiectII\MVCFinalProject - Copy\MVCFinalProject - Copy\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\FACULTATE\AN3_2\PROIECTII\ProiectII\MVCFinalProject - Copy\MVCFinalProject - Copy\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\FACULTATE\AN3_2\PROIECTII\ProiectII\MVCFinalProject - Copy\MVCFinalProject - Copy\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\FACULTATE\AN3_2\PROIECTII\ProiectII\MVCFinalProject - Copy\MVCFinalProject - Copy\bin\roslyn\System.ValueTuple.dll
+D:\FACULTATE\AN3_2\PROIECTII\ProiectII\MVCFinalProject - Copy\MVCFinalProject - Copy\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\FACULTATE\AN3_2\PROIECTII\ProiectII\MVCFinalProject - Copy\MVCFinalProject - Copy\bin\roslyn\System.Xml.XmlDocument.dll
+D:\FACULTATE\AN3_2\PROIECTII\ProiectII\MVCFinalProject - Copy\MVCFinalProject - Copy\bin\roslyn\System.Xml.XPath.dll
+D:\FACULTATE\AN3_2\PROIECTII\ProiectII\MVCFinalProject - Copy\MVCFinalProject - Copy\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\FACULTATE\AN3_2\PROIECTII\ProiectII\MVCFinalProject - Copy\MVCFinalProject - Copy\bin\roslyn\vbc.exe
+D:\FACULTATE\AN3_2\PROIECTII\ProiectII\MVCFinalProject - Copy\MVCFinalProject - Copy\bin\roslyn\vbc.exe.config
+D:\FACULTATE\AN3_2\PROIECTII\ProiectII\MVCFinalProject - Copy\MVCFinalProject - Copy\bin\roslyn\vbc.rsp
+D:\FACULTATE\AN3_2\PROIECTII\ProiectII\MVCFinalProject - Copy\MVCFinalProject - Copy\bin\roslyn\VBCSCompiler.exe
+D:\FACULTATE\AN3_2\PROIECTII\ProiectII\MVCFinalProject - Copy\MVCFinalProject - Copy\bin\roslyn\VBCSCompiler.exe.config
+D:\FACULTATE\AN3_2\PROIECTII\ProiectII\MVCFinalProject - Copy\MVCFinalProject - Copy\bin\Antlr3.Runtime.dll
+D:\FACULTATE\AN3_2\PROIECTII\ProiectII\MVCFinalProject - Copy\MVCFinalProject - Copy\bin\EntityFramework.dll
+D:\FACULTATE\AN3_2\PROIECTII\ProiectII\MVCFinalProject - Copy\MVCFinalProject - Copy\bin\EntityFramework.SqlServer.dll
+D:\FACULTATE\AN3_2\PROIECTII\ProiectII\MVCFinalProject - Copy\MVCFinalProject - Copy\bin\Microsoft.AspNet.Identity.Core.dll
+D:\FACULTATE\AN3_2\PROIECTII\ProiectII\MVCFinalProject - Copy\MVCFinalProject - Copy\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\FACULTATE\AN3_2\PROIECTII\ProiectII\MVCFinalProject - Copy\MVCFinalProject - Copy\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\FACULTATE\AN3_2\PROIECTII\ProiectII\MVCFinalProject - Copy\MVCFinalProject - Copy\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\FACULTATE\AN3_2\PROIECTII\ProiectII\MVCFinalProject - Copy\MVCFinalProject - Copy\bin\Microsoft.Owin.dll
+D:\FACULTATE\AN3_2\PROIECTII\ProiectII\MVCFinalProject - Copy\MVCFinalProject - Copy\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\FACULTATE\AN3_2\PROIECTII\ProiectII\MVCFinalProject - Copy\MVCFinalProject - Copy\bin\Microsoft.Owin.Security.Cookies.dll
+D:\FACULTATE\AN3_2\PROIECTII\ProiectII\MVCFinalProject - Copy\MVCFinalProject - Copy\bin\Microsoft.Owin.Security.dll
+D:\FACULTATE\AN3_2\PROIECTII\ProiectII\MVCFinalProject - Copy\MVCFinalProject - Copy\bin\Microsoft.Owin.Security.Facebook.dll
+D:\FACULTATE\AN3_2\PROIECTII\ProiectII\MVCFinalProject - Copy\MVCFinalProject - Copy\bin\Microsoft.Owin.Security.Google.dll
+D:\FACULTATE\AN3_2\PROIECTII\ProiectII\MVCFinalProject - Copy\MVCFinalProject - Copy\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\FACULTATE\AN3_2\PROIECTII\ProiectII\MVCFinalProject - Copy\MVCFinalProject - Copy\bin\Microsoft.Owin.Security.OAuth.dll
+D:\FACULTATE\AN3_2\PROIECTII\ProiectII\MVCFinalProject - Copy\MVCFinalProject - Copy\bin\Microsoft.Owin.Security.Twitter.dll
+D:\FACULTATE\AN3_2\PROIECTII\ProiectII\MVCFinalProject - Copy\MVCFinalProject - Copy\bin\Microsoft.Web.Infrastructure.dll
+D:\FACULTATE\AN3_2\PROIECTII\ProiectII\MVCFinalProject - Copy\MVCFinalProject - Copy\bin\Newtonsoft.Json.dll
+D:\FACULTATE\AN3_2\PROIECTII\ProiectII\MVCFinalProject - Copy\MVCFinalProject - Copy\bin\Owin.dll
+D:\FACULTATE\AN3_2\PROIECTII\ProiectII\MVCFinalProject - Copy\MVCFinalProject - Copy\bin\System.Web.Helpers.dll
+D:\FACULTATE\AN3_2\PROIECTII\ProiectII\MVCFinalProject - Copy\MVCFinalProject - Copy\bin\System.Web.Mvc.dll
+D:\FACULTATE\AN3_2\PROIECTII\ProiectII\MVCFinalProject - Copy\MVCFinalProject - Copy\bin\System.Web.Optimization.dll
+D:\FACULTATE\AN3_2\PROIECTII\ProiectII\MVCFinalProject - Copy\MVCFinalProject - Copy\bin\System.Web.Razor.dll
+D:\FACULTATE\AN3_2\PROIECTII\ProiectII\MVCFinalProject - Copy\MVCFinalProject - Copy\bin\System.Web.WebPages.Deployment.dll
+D:\FACULTATE\AN3_2\PROIECTII\ProiectII\MVCFinalProject - Copy\MVCFinalProject - Copy\bin\System.Web.WebPages.dll
+D:\FACULTATE\AN3_2\PROIECTII\ProiectII\MVCFinalProject - Copy\MVCFinalProject - Copy\bin\System.Web.WebPages.Razor.dll
+D:\FACULTATE\AN3_2\PROIECTII\ProiectII\MVCFinalProject - Copy\MVCFinalProject - Copy\bin\WebGrease.dll
+D:\FACULTATE\AN3_2\PROIECTII\ProiectII\MVCFinalProject - Copy\MVCFinalProject - Copy\bin\System.Web.Helpers.xml
+D:\FACULTATE\AN3_2\PROIECTII\ProiectII\MVCFinalProject - Copy\MVCFinalProject - Copy\bin\System.Web.Mvc.xml
+D:\FACULTATE\AN3_2\PROIECTII\ProiectII\MVCFinalProject - Copy\MVCFinalProject - Copy\bin\System.Web.Optimization.xml
+D:\FACULTATE\AN3_2\PROIECTII\ProiectII\MVCFinalProject - Copy\MVCFinalProject - Copy\bin\System.Web.Razor.xml
+D:\FACULTATE\AN3_2\PROIECTII\ProiectII\MVCFinalProject - Copy\MVCFinalProject - Copy\bin\System.Web.WebPages.xml
+D:\FACULTATE\AN3_2\PROIECTII\ProiectII\MVCFinalProject - Copy\MVCFinalProject - Copy\bin\System.Web.WebPages.Deployment.xml
+D:\FACULTATE\AN3_2\PROIECTII\ProiectII\MVCFinalProject - Copy\MVCFinalProject - Copy\bin\System.Web.WebPages.Razor.xml
+D:\FACULTATE\AN3_2\PROIECTII\ProiectII\MVCFinalProject - Copy\MVCFinalProject - Copy\bin\Newtonsoft.Json.xml
+D:\FACULTATE\AN3_2\PROIECTII\ProiectII\MVCFinalProject - Copy\MVCFinalProject - Copy\bin\Antlr3.Runtime.pdb
+D:\FACULTATE\AN3_2\PROIECTII\ProiectII\MVCFinalProject - Copy\MVCFinalProject - Copy\bin\EntityFramework.xml
+D:\FACULTATE\AN3_2\PROIECTII\ProiectII\MVCFinalProject - Copy\MVCFinalProject - Copy\bin\EntityFramework.SqlServer.xml
+D:\FACULTATE\AN3_2\PROIECTII\ProiectII\MVCFinalProject - Copy\MVCFinalProject - Copy\bin\Microsoft.AspNet.Identity.Core.xml
+D:\FACULTATE\AN3_2\PROIECTII\ProiectII\MVCFinalProject - Copy\MVCFinalProject - Copy\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\FACULTATE\AN3_2\PROIECTII\ProiectII\MVCFinalProject - Copy\MVCFinalProject - Copy\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\FACULTATE\AN3_2\PROIECTII\ProiectII\MVCFinalProject - Copy\MVCFinalProject - Copy\bin\Microsoft.Owin.xml
+D:\FACULTATE\AN3_2\PROIECTII\ProiectII\MVCFinalProject - Copy\MVCFinalProject - Copy\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\FACULTATE\AN3_2\PROIECTII\ProiectII\MVCFinalProject - Copy\MVCFinalProject - Copy\bin\Microsoft.Owin.Security.xml
+D:\FACULTATE\AN3_2\PROIECTII\ProiectII\MVCFinalProject - Copy\MVCFinalProject - Copy\bin\Microsoft.Owin.Security.Facebook.xml
+D:\FACULTATE\AN3_2\PROIECTII\ProiectII\MVCFinalProject - Copy\MVCFinalProject - Copy\bin\Microsoft.Owin.Security.Cookies.xml
+D:\FACULTATE\AN3_2\PROIECTII\ProiectII\MVCFinalProject - Copy\MVCFinalProject - Copy\bin\Microsoft.Owin.Security.Google.xml
+D:\FACULTATE\AN3_2\PROIECTII\ProiectII\MVCFinalProject - Copy\MVCFinalProject - Copy\bin\Microsoft.Owin.Security.Twitter.xml
+D:\FACULTATE\AN3_2\PROIECTII\ProiectII\MVCFinalProject - Copy\MVCFinalProject - Copy\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\FACULTATE\AN3_2\PROIECTII\ProiectII\MVCFinalProject - Copy\MVCFinalProject - Copy\bin\Microsoft.Owin.Security.OAuth.xml
+D:\FACULTATE\AN3_2\PROIECTII\ProiectII\MVCFinalProject - Copy\MVCFinalProject - Copy\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\FACULTATE\AN3_2\PROIECTII\ProiectII\MVCFinalProject - Copy\MVCFinalProject - Copy\obj\Debug\MVCFinalProject.csproj.AssemblyReference.cache
+D:\FACULTATE\AN3_2\PROIECTII\ProiectII\MVCFinalProject - Copy\MVCFinalProject - Copy\obj\Debug\MVCFinalProject.Migrations.InitialModel.resources
+D:\FACULTATE\AN3_2\PROIECTII\ProiectII\MVCFinalProject - Copy\MVCFinalProject - Copy\obj\Debug\MVCFinalProject.Migrations.CreateDatabase.resources
+D:\FACULTATE\AN3_2\PROIECTII\ProiectII\MVCFinalProject - Copy\MVCFinalProject - Copy\obj\Debug\MVCFinalProject.csproj.GenerateResource.cache
+D:\FACULTATE\AN3_2\PROIECTII\ProiectII\MVCFinalProject - Copy\MVCFinalProject - Copy\obj\Debug\MVCFinalProject.csproj.CoreCompileInputs.cache
+D:\FACULTATE\AN3_2\PROIECTII\ProiectII\MVCFinalProject - Copy\MVCFinalProject - Copy\obj\Debug\MVCFinalProject.csproj.CopyComplete
+D:\FACULTATE\AN3_2\PROIECTII\ProiectII\MVCFinalProject - Copy\MVCFinalProject - Copy\obj\Debug\MVCFinalProject.dll
+D:\FACULTATE\AN3_2\PROIECTII\ProiectII\MVCFinalProject - Copy\MVCFinalProject - Copy\obj\Debug\MVCFinalProject.pdb
+D:\FACULTATE\AN3_2\PROIECTII\ProiectII\MVCFinalProject - Copy\MVCFinalProject - Copy\bin\Microsoft.Bcl.AsyncInterfaces.dll
+D:\FACULTATE\AN3_2\PROIECTII\ProiectII\MVCFinalProject - Copy\MVCFinalProject - Copy\bin\Microsoft.Bcl.HashCode.dll
+D:\FACULTATE\AN3_2\PROIECTII\ProiectII\MVCFinalProject - Copy\MVCFinalProject - Copy\bin\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\FACULTATE\AN3_2\PROIECTII\ProiectII\MVCFinalProject - Copy\MVCFinalProject - Copy\bin\Microsoft.EntityFrameworkCore.dll
+D:\FACULTATE\AN3_2\PROIECTII\ProiectII\MVCFinalProject - Copy\MVCFinalProject - Copy\bin\Microsoft.Extensions.Caching.Abstractions.dll
+D:\FACULTATE\AN3_2\PROIECTII\ProiectII\MVCFinalProject - Copy\MVCFinalProject - Copy\bin\Microsoft.Extensions.Caching.Memory.dll
+D:\FACULTATE\AN3_2\PROIECTII\ProiectII\MVCFinalProject - Copy\MVCFinalProject - Copy\bin\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\FACULTATE\AN3_2\PROIECTII\ProiectII\MVCFinalProject - Copy\MVCFinalProject - Copy\bin\Microsoft.Extensions.Configuration.Binder.dll
+D:\FACULTATE\AN3_2\PROIECTII\ProiectII\MVCFinalProject - Copy\MVCFinalProject - Copy\bin\Microsoft.Extensions.Configuration.dll
+D:\FACULTATE\AN3_2\PROIECTII\ProiectII\MVCFinalProject - Copy\MVCFinalProject - Copy\bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\FACULTATE\AN3_2\PROIECTII\ProiectII\MVCFinalProject - Copy\MVCFinalProject - Copy\bin\Microsoft.Extensions.DependencyInjection.dll
+D:\FACULTATE\AN3_2\PROIECTII\ProiectII\MVCFinalProject - Copy\MVCFinalProject - Copy\bin\Microsoft.Extensions.Logging.Abstractions.dll
+D:\FACULTATE\AN3_2\PROIECTII\ProiectII\MVCFinalProject - Copy\MVCFinalProject - Copy\bin\Microsoft.Extensions.Logging.dll
+D:\FACULTATE\AN3_2\PROIECTII\ProiectII\MVCFinalProject - Copy\MVCFinalProject - Copy\bin\Microsoft.Extensions.Options.dll
+D:\FACULTATE\AN3_2\PROIECTII\ProiectII\MVCFinalProject - Copy\MVCFinalProject - Copy\bin\Microsoft.Extensions.Primitives.dll
+D:\FACULTATE\AN3_2\PROIECTII\ProiectII\MVCFinalProject - Copy\MVCFinalProject - Copy\bin\System.Buffers.dll
+D:\FACULTATE\AN3_2\PROIECTII\ProiectII\MVCFinalProject - Copy\MVCFinalProject - Copy\bin\System.Collections.Immutable.dll
+D:\FACULTATE\AN3_2\PROIECTII\ProiectII\MVCFinalProject - Copy\MVCFinalProject - Copy\bin\System.ComponentModel.Annotations.dll
+D:\FACULTATE\AN3_2\PROIECTII\ProiectII\MVCFinalProject - Copy\MVCFinalProject - Copy\bin\System.Diagnostics.DiagnosticSource.dll
+D:\FACULTATE\AN3_2\PROIECTII\ProiectII\MVCFinalProject - Copy\MVCFinalProject - Copy\bin\System.Memory.dll
+D:\FACULTATE\AN3_2\PROIECTII\ProiectII\MVCFinalProject - Copy\MVCFinalProject - Copy\bin\System.Numerics.Vectors.dll
+D:\FACULTATE\AN3_2\PROIECTII\ProiectII\MVCFinalProject - Copy\MVCFinalProject - Copy\bin\System.Runtime.CompilerServices.Unsafe.dll
+D:\FACULTATE\AN3_2\PROIECTII\ProiectII\MVCFinalProject - Copy\MVCFinalProject - Copy\bin\System.Threading.Tasks.Extensions.dll
+D:\FACULTATE\AN3_2\PROIECTII\ProiectII\MVCFinalProject - Copy\MVCFinalProject - Copy\bin\Microsoft.Bcl.AsyncInterfaces.xml
+D:\FACULTATE\AN3_2\PROIECTII\ProiectII\MVCFinalProject - Copy\MVCFinalProject - Copy\bin\Microsoft.Bcl.HashCode.xml
+D:\FACULTATE\AN3_2\PROIECTII\ProiectII\MVCFinalProject - Copy\MVCFinalProject - Copy\bin\Microsoft.EntityFrameworkCore.xml
+D:\FACULTATE\AN3_2\PROIECTII\ProiectII\MVCFinalProject - Copy\MVCFinalProject - Copy\bin\Microsoft.EntityFrameworkCore.Abstractions.xml
+D:\FACULTATE\AN3_2\PROIECTII\ProiectII\MVCFinalProject - Copy\MVCFinalProject - Copy\bin\Microsoft.Extensions.Caching.Abstractions.xml
+D:\FACULTATE\AN3_2\PROIECTII\ProiectII\MVCFinalProject - Copy\MVCFinalProject - Copy\bin\Microsoft.Extensions.Caching.Memory.xml
+D:\FACULTATE\AN3_2\PROIECTII\ProiectII\MVCFinalProject - Copy\MVCFinalProject - Copy\bin\Microsoft.Extensions.Configuration.xml
+D:\FACULTATE\AN3_2\PROIECTII\ProiectII\MVCFinalProject - Copy\MVCFinalProject - Copy\bin\Microsoft.Extensions.Configuration.Abstractions.xml
+D:\FACULTATE\AN3_2\PROIECTII\ProiectII\MVCFinalProject - Copy\MVCFinalProject - Copy\bin\Microsoft.Extensions.Configuration.Binder.xml
+D:\FACULTATE\AN3_2\PROIECTII\ProiectII\MVCFinalProject - Copy\MVCFinalProject - Copy\bin\Microsoft.Extensions.DependencyInjection.xml
+D:\FACULTATE\AN3_2\PROIECTII\ProiectII\MVCFinalProject - Copy\MVCFinalProject - Copy\bin\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+D:\FACULTATE\AN3_2\PROIECTII\ProiectII\MVCFinalProject - Copy\MVCFinalProject - Copy\bin\Microsoft.Extensions.Logging.xml
+D:\FACULTATE\AN3_2\PROIECTII\ProiectII\MVCFinalProject - Copy\MVCFinalProject - Copy\bin\Microsoft.Extensions.Logging.Abstractions.xml
+D:\FACULTATE\AN3_2\PROIECTII\ProiectII\MVCFinalProject - Copy\MVCFinalProject - Copy\bin\Microsoft.Extensions.Options.xml
+D:\FACULTATE\AN3_2\PROIECTII\ProiectII\MVCFinalProject - Copy\MVCFinalProject - Copy\bin\Microsoft.Extensions.Primitives.xml
+D:\FACULTATE\AN3_2\PROIECTII\ProiectII\MVCFinalProject - Copy\MVCFinalProject - Copy\bin\System.Buffers.xml
+D:\FACULTATE\AN3_2\PROIECTII\ProiectII\MVCFinalProject - Copy\MVCFinalProject - Copy\bin\System.Collections.Immutable.xml
+D:\FACULTATE\AN3_2\PROIECTII\ProiectII\MVCFinalProject - Copy\MVCFinalProject - Copy\bin\System.Diagnostics.DiagnosticSource.xml
+D:\FACULTATE\AN3_2\PROIECTII\ProiectII\MVCFinalProject - Copy\MVCFinalProject - Copy\bin\System.Memory.xml
+D:\FACULTATE\AN3_2\PROIECTII\ProiectII\MVCFinalProject - Copy\MVCFinalProject - Copy\bin\System.Numerics.Vectors.xml
+D:\FACULTATE\AN3_2\PROIECTII\ProiectII\MVCFinalProject - Copy\MVCFinalProject - Copy\bin\System.Runtime.CompilerServices.Unsafe.xml
+D:\FACULTATE\AN3_2\PROIECTII\ProiectII\MVCFinalProject - Copy\MVCFinalProject - Copy\bin\System.Threading.Tasks.Extensions.xml
+D:\FACULTATE\AN3_2\PROIECTII\ProiectII\MVCFinalProject - Copy\MVCFinalProject - Copy\obj\Debug\MVCFinalProject.Migrations.CreateTables.resources
+C:\Users\maria\Desktop\NOU NOU\ProiectII\MVCFinalProject\MVCFinalProject - Copy\bin\MVCFinalProject.dll.config
+C:\Users\maria\Desktop\NOU NOU\ProiectII\MVCFinalProject\MVCFinalProject - Copy\bin\MVCFinalProject.dll
+C:\Users\maria\Desktop\NOU NOU\ProiectII\MVCFinalProject\MVCFinalProject - Copy\bin\MVCFinalProject.pdb
+C:\Users\maria\Desktop\NOU NOU\ProiectII\MVCFinalProject\MVCFinalProject - Copy\bin\Antlr3.Runtime.dll
+C:\Users\maria\Desktop\NOU NOU\ProiectII\MVCFinalProject\MVCFinalProject - Copy\bin\EntityFramework.dll
+C:\Users\maria\Desktop\NOU NOU\ProiectII\MVCFinalProject\MVCFinalProject - Copy\bin\EntityFramework.SqlServer.dll
+C:\Users\maria\Desktop\NOU NOU\ProiectII\MVCFinalProject\MVCFinalProject - Copy\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\maria\Desktop\NOU NOU\ProiectII\MVCFinalProject\MVCFinalProject - Copy\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\maria\Desktop\NOU NOU\ProiectII\MVCFinalProject\MVCFinalProject - Copy\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\maria\Desktop\NOU NOU\ProiectII\MVCFinalProject\MVCFinalProject - Copy\bin\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\maria\Desktop\NOU NOU\ProiectII\MVCFinalProject\MVCFinalProject - Copy\bin\Microsoft.Bcl.HashCode.dll
+C:\Users\maria\Desktop\NOU NOU\ProiectII\MVCFinalProject\MVCFinalProject - Copy\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\maria\Desktop\NOU NOU\ProiectII\MVCFinalProject\MVCFinalProject - Copy\bin\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\maria\Desktop\NOU NOU\ProiectII\MVCFinalProject\MVCFinalProject - Copy\bin\Microsoft.EntityFrameworkCore.dll
+C:\Users\maria\Desktop\NOU NOU\ProiectII\MVCFinalProject\MVCFinalProject - Copy\bin\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\maria\Desktop\NOU NOU\ProiectII\MVCFinalProject\MVCFinalProject - Copy\bin\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\maria\Desktop\NOU NOU\ProiectII\MVCFinalProject\MVCFinalProject - Copy\bin\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\maria\Desktop\NOU NOU\ProiectII\MVCFinalProject\MVCFinalProject - Copy\bin\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\maria\Desktop\NOU NOU\ProiectII\MVCFinalProject\MVCFinalProject - Copy\bin\Microsoft.Extensions.Configuration.dll
+C:\Users\maria\Desktop\NOU NOU\ProiectII\MVCFinalProject\MVCFinalProject - Copy\bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\maria\Desktop\NOU NOU\ProiectII\MVCFinalProject\MVCFinalProject - Copy\bin\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\maria\Desktop\NOU NOU\ProiectII\MVCFinalProject\MVCFinalProject - Copy\bin\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\maria\Desktop\NOU NOU\ProiectII\MVCFinalProject\MVCFinalProject - Copy\bin\Microsoft.Extensions.Logging.dll
+C:\Users\maria\Desktop\NOU NOU\ProiectII\MVCFinalProject\MVCFinalProject - Copy\bin\Microsoft.Extensions.Options.dll
+C:\Users\maria\Desktop\NOU NOU\ProiectII\MVCFinalProject\MVCFinalProject - Copy\bin\Microsoft.Extensions.Primitives.dll
+C:\Users\maria\Desktop\NOU NOU\ProiectII\MVCFinalProject\MVCFinalProject - Copy\bin\Microsoft.Owin.dll
+C:\Users\maria\Desktop\NOU NOU\ProiectII\MVCFinalProject\MVCFinalProject - Copy\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\maria\Desktop\NOU NOU\ProiectII\MVCFinalProject\MVCFinalProject - Copy\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\maria\Desktop\NOU NOU\ProiectII\MVCFinalProject\MVCFinalProject - Copy\bin\Microsoft.Owin.Security.dll
+C:\Users\maria\Desktop\NOU NOU\ProiectII\MVCFinalProject\MVCFinalProject - Copy\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\maria\Desktop\NOU NOU\ProiectII\MVCFinalProject\MVCFinalProject - Copy\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\maria\Desktop\NOU NOU\ProiectII\MVCFinalProject\MVCFinalProject - Copy\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\maria\Desktop\NOU NOU\ProiectII\MVCFinalProject\MVCFinalProject - Copy\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\maria\Desktop\NOU NOU\ProiectII\MVCFinalProject\MVCFinalProject - Copy\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\maria\Desktop\NOU NOU\ProiectII\MVCFinalProject\MVCFinalProject - Copy\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\maria\Desktop\NOU NOU\ProiectII\MVCFinalProject\MVCFinalProject - Copy\bin\Newtonsoft.Json.dll
+C:\Users\maria\Desktop\NOU NOU\ProiectII\MVCFinalProject\MVCFinalProject - Copy\bin\Owin.dll
+C:\Users\maria\Desktop\NOU NOU\ProiectII\MVCFinalProject\MVCFinalProject - Copy\bin\System.Buffers.dll
+C:\Users\maria\Desktop\NOU NOU\ProiectII\MVCFinalProject\MVCFinalProject - Copy\bin\System.Collections.Immutable.dll
+C:\Users\maria\Desktop\NOU NOU\ProiectII\MVCFinalProject\MVCFinalProject - Copy\bin\System.ComponentModel.Annotations.dll
+C:\Users\maria\Desktop\NOU NOU\ProiectII\MVCFinalProject\MVCFinalProject - Copy\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\maria\Desktop\NOU NOU\ProiectII\MVCFinalProject\MVCFinalProject - Copy\bin\System.Memory.dll
+C:\Users\maria\Desktop\NOU NOU\ProiectII\MVCFinalProject\MVCFinalProject - Copy\bin\System.Numerics.Vectors.dll
+C:\Users\maria\Desktop\NOU NOU\ProiectII\MVCFinalProject\MVCFinalProject - Copy\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\maria\Desktop\NOU NOU\ProiectII\MVCFinalProject\MVCFinalProject - Copy\bin\System.Threading.Tasks.Extensions.dll
+C:\Users\maria\Desktop\NOU NOU\ProiectII\MVCFinalProject\MVCFinalProject - Copy\bin\System.Web.Helpers.dll
+C:\Users\maria\Desktop\NOU NOU\ProiectII\MVCFinalProject\MVCFinalProject - Copy\bin\System.Web.Mvc.dll
+C:\Users\maria\Desktop\NOU NOU\ProiectII\MVCFinalProject\MVCFinalProject - Copy\bin\System.Web.Optimization.dll
+C:\Users\maria\Desktop\NOU NOU\ProiectII\MVCFinalProject\MVCFinalProject - Copy\bin\System.Web.Razor.dll
+C:\Users\maria\Desktop\NOU NOU\ProiectII\MVCFinalProject\MVCFinalProject - Copy\bin\System.Web.WebPages.Deployment.dll
+C:\Users\maria\Desktop\NOU NOU\ProiectII\MVCFinalProject\MVCFinalProject - Copy\bin\System.Web.WebPages.dll
+C:\Users\maria\Desktop\NOU NOU\ProiectII\MVCFinalProject\MVCFinalProject - Copy\bin\System.Web.WebPages.Razor.dll
+C:\Users\maria\Desktop\NOU NOU\ProiectII\MVCFinalProject\MVCFinalProject - Copy\bin\WebGrease.dll
+C:\Users\maria\Desktop\NOU NOU\ProiectII\MVCFinalProject\MVCFinalProject - Copy\bin\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\maria\Desktop\NOU NOU\ProiectII\MVCFinalProject\MVCFinalProject - Copy\bin\Microsoft.Bcl.HashCode.xml
+C:\Users\maria\Desktop\NOU NOU\ProiectII\MVCFinalProject\MVCFinalProject - Copy\bin\Microsoft.EntityFrameworkCore.xml
+C:\Users\maria\Desktop\NOU NOU\ProiectII\MVCFinalProject\MVCFinalProject - Copy\bin\Microsoft.EntityFrameworkCore.Abstractions.xml
+C:\Users\maria\Desktop\NOU NOU\ProiectII\MVCFinalProject\MVCFinalProject - Copy\bin\Microsoft.Extensions.Caching.Abstractions.xml
+C:\Users\maria\Desktop\NOU NOU\ProiectII\MVCFinalProject\MVCFinalProject - Copy\bin\Microsoft.Extensions.Caching.Memory.xml
+C:\Users\maria\Desktop\NOU NOU\ProiectII\MVCFinalProject\MVCFinalProject - Copy\bin\Microsoft.Extensions.Configuration.xml
+C:\Users\maria\Desktop\NOU NOU\ProiectII\MVCFinalProject\MVCFinalProject - Copy\bin\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Users\maria\Desktop\NOU NOU\ProiectII\MVCFinalProject\MVCFinalProject - Copy\bin\Microsoft.Extensions.Configuration.Binder.xml
+C:\Users\maria\Desktop\NOU NOU\ProiectII\MVCFinalProject\MVCFinalProject - Copy\bin\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\maria\Desktop\NOU NOU\ProiectII\MVCFinalProject\MVCFinalProject - Copy\bin\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\maria\Desktop\NOU NOU\ProiectII\MVCFinalProject\MVCFinalProject - Copy\bin\Microsoft.Extensions.Logging.xml
+C:\Users\maria\Desktop\NOU NOU\ProiectII\MVCFinalProject\MVCFinalProject - Copy\bin\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\maria\Desktop\NOU NOU\ProiectII\MVCFinalProject\MVCFinalProject - Copy\bin\Microsoft.Extensions.Options.xml
+C:\Users\maria\Desktop\NOU NOU\ProiectII\MVCFinalProject\MVCFinalProject - Copy\bin\Microsoft.Extensions.Primitives.xml
+C:\Users\maria\Desktop\NOU NOU\ProiectII\MVCFinalProject\MVCFinalProject - Copy\bin\System.Buffers.xml
+C:\Users\maria\Desktop\NOU NOU\ProiectII\MVCFinalProject\MVCFinalProject - Copy\bin\System.Collections.Immutable.xml
+C:\Users\maria\Desktop\NOU NOU\ProiectII\MVCFinalProject\MVCFinalProject - Copy\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\maria\Desktop\NOU NOU\ProiectII\MVCFinalProject\MVCFinalProject - Copy\bin\System.Memory.xml
+C:\Users\maria\Desktop\NOU NOU\ProiectII\MVCFinalProject\MVCFinalProject - Copy\bin\System.Numerics.Vectors.xml
+C:\Users\maria\Desktop\NOU NOU\ProiectII\MVCFinalProject\MVCFinalProject - Copy\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\maria\Desktop\NOU NOU\ProiectII\MVCFinalProject\MVCFinalProject - Copy\bin\System.Threading.Tasks.Extensions.xml
+C:\Users\maria\Desktop\NOU NOU\ProiectII\MVCFinalProject\MVCFinalProject - Copy\bin\System.Web.Helpers.xml
+C:\Users\maria\Desktop\NOU NOU\ProiectII\MVCFinalProject\MVCFinalProject - Copy\bin\System.Web.Mvc.xml
+C:\Users\maria\Desktop\NOU NOU\ProiectII\MVCFinalProject\MVCFinalProject - Copy\bin\System.Web.Optimization.xml
+C:\Users\maria\Desktop\NOU NOU\ProiectII\MVCFinalProject\MVCFinalProject - Copy\bin\System.Web.Razor.xml
+C:\Users\maria\Desktop\NOU NOU\ProiectII\MVCFinalProject\MVCFinalProject - Copy\bin\System.Web.WebPages.xml
+C:\Users\maria\Desktop\NOU NOU\ProiectII\MVCFinalProject\MVCFinalProject - Copy\bin\System.Web.WebPages.Deployment.xml
+C:\Users\maria\Desktop\NOU NOU\ProiectII\MVCFinalProject\MVCFinalProject - Copy\bin\System.Web.WebPages.Razor.xml
+C:\Users\maria\Desktop\NOU NOU\ProiectII\MVCFinalProject\MVCFinalProject - Copy\bin\Newtonsoft.Json.xml
+C:\Users\maria\Desktop\NOU NOU\ProiectII\MVCFinalProject\MVCFinalProject - Copy\bin\Antlr3.Runtime.pdb
+C:\Users\maria\Desktop\NOU NOU\ProiectII\MVCFinalProject\MVCFinalProject - Copy\bin\EntityFramework.xml
+C:\Users\maria\Desktop\NOU NOU\ProiectII\MVCFinalProject\MVCFinalProject - Copy\bin\EntityFramework.SqlServer.xml
+C:\Users\maria\Desktop\NOU NOU\ProiectII\MVCFinalProject\MVCFinalProject - Copy\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\maria\Desktop\NOU NOU\ProiectII\MVCFinalProject\MVCFinalProject - Copy\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\maria\Desktop\NOU NOU\ProiectII\MVCFinalProject\MVCFinalProject - Copy\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\maria\Desktop\NOU NOU\ProiectII\MVCFinalProject\MVCFinalProject - Copy\bin\Microsoft.Owin.xml
+C:\Users\maria\Desktop\NOU NOU\ProiectII\MVCFinalProject\MVCFinalProject - Copy\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\maria\Desktop\NOU NOU\ProiectII\MVCFinalProject\MVCFinalProject - Copy\bin\Microsoft.Owin.Security.xml
+C:\Users\maria\Desktop\NOU NOU\ProiectII\MVCFinalProject\MVCFinalProject - Copy\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\maria\Desktop\NOU NOU\ProiectII\MVCFinalProject\MVCFinalProject - Copy\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\maria\Desktop\NOU NOU\ProiectII\MVCFinalProject\MVCFinalProject - Copy\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\maria\Desktop\NOU NOU\ProiectII\MVCFinalProject\MVCFinalProject - Copy\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\maria\Desktop\NOU NOU\ProiectII\MVCFinalProject\MVCFinalProject - Copy\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\maria\Desktop\NOU NOU\ProiectII\MVCFinalProject\MVCFinalProject - Copy\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\maria\Desktop\NOU NOU\ProiectII\MVCFinalProject\MVCFinalProject - Copy\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\maria\Desktop\NOU NOU\ProiectII\MVCFinalProject\MVCFinalProject - Copy\obj\Debug\MVCFinalProject.csproj.AssemblyReference.cache
+C:\Users\maria\Desktop\NOU NOU\ProiectII\MVCFinalProject\MVCFinalProject - Copy\obj\Debug\MVCFinalProject.Migrations.InitialModel.resources
+C:\Users\maria\Desktop\NOU NOU\ProiectII\MVCFinalProject\MVCFinalProject - Copy\obj\Debug\MVCFinalProject.Migrations.CreateDatabase.resources
+C:\Users\maria\Desktop\NOU NOU\ProiectII\MVCFinalProject\MVCFinalProject - Copy\obj\Debug\MVCFinalProject.Migrations.CreateTables.resources
+C:\Users\maria\Desktop\NOU NOU\ProiectII\MVCFinalProject\MVCFinalProject - Copy\obj\Debug\MVCFinalProject.csproj.GenerateResource.cache
+C:\Users\maria\Desktop\NOU NOU\ProiectII\MVCFinalProject\MVCFinalProject - Copy\obj\Debug\MVCFinalProject.csproj.CoreCompileInputs.cache
+C:\Users\maria\Desktop\NOU NOU\ProiectII\MVCFinalProject\MVCFinalProject - Copy\obj\Debug\MVCFinalProject.csproj.CopyComplete
+C:\Users\maria\Desktop\NOU NOU\ProiectII\MVCFinalProject\MVCFinalProject - Copy\obj\Debug\MVCFinalProject.dll
+C:\Users\maria\Desktop\NOU NOU\ProiectII\MVCFinalProject\MVCFinalProject - Copy\obj\Debug\MVCFinalProject.pdb
+C:\Users\maria\Desktop\NOU NOU\ProiectII\MVCFinalProject\MVCFinalProject - Copy\bin\roslyn\csc.exe
+C:\Users\maria\Desktop\NOU NOU\ProiectII\MVCFinalProject\MVCFinalProject - Copy\bin\roslyn\csc.exe.config
+C:\Users\maria\Desktop\NOU NOU\ProiectII\MVCFinalProject\MVCFinalProject - Copy\bin\roslyn\csc.rsp
+C:\Users\maria\Desktop\NOU NOU\ProiectII\MVCFinalProject\MVCFinalProject - Copy\bin\roslyn\csi.exe
+C:\Users\maria\Desktop\NOU NOU\ProiectII\MVCFinalProject\MVCFinalProject - Copy\bin\roslyn\csi.exe.config
+C:\Users\maria\Desktop\NOU NOU\ProiectII\MVCFinalProject\MVCFinalProject - Copy\bin\roslyn\csi.rsp
+C:\Users\maria\Desktop\NOU NOU\ProiectII\MVCFinalProject\MVCFinalProject - Copy\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\maria\Desktop\NOU NOU\ProiectII\MVCFinalProject\MVCFinalProject - Copy\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\maria\Desktop\NOU NOU\ProiectII\MVCFinalProject\MVCFinalProject - Copy\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\maria\Desktop\NOU NOU\ProiectII\MVCFinalProject\MVCFinalProject - Copy\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\maria\Desktop\NOU NOU\ProiectII\MVCFinalProject\MVCFinalProject - Copy\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\maria\Desktop\NOU NOU\ProiectII\MVCFinalProject\MVCFinalProject - Copy\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\maria\Desktop\NOU NOU\ProiectII\MVCFinalProject\MVCFinalProject - Copy\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\maria\Desktop\NOU NOU\ProiectII\MVCFinalProject\MVCFinalProject - Copy\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\maria\Desktop\NOU NOU\ProiectII\MVCFinalProject\MVCFinalProject - Copy\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\maria\Desktop\NOU NOU\ProiectII\MVCFinalProject\MVCFinalProject - Copy\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\maria\Desktop\NOU NOU\ProiectII\MVCFinalProject\MVCFinalProject - Copy\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\maria\Desktop\NOU NOU\ProiectII\MVCFinalProject\MVCFinalProject - Copy\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\maria\Desktop\NOU NOU\ProiectII\MVCFinalProject\MVCFinalProject - Copy\bin\roslyn\System.AppContext.dll
+C:\Users\maria\Desktop\NOU NOU\ProiectII\MVCFinalProject\MVCFinalProject - Copy\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\maria\Desktop\NOU NOU\ProiectII\MVCFinalProject\MVCFinalProject - Copy\bin\roslyn\System.Console.dll
+C:\Users\maria\Desktop\NOU NOU\ProiectII\MVCFinalProject\MVCFinalProject - Copy\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\maria\Desktop\NOU NOU\ProiectII\MVCFinalProject\MVCFinalProject - Copy\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\maria\Desktop\NOU NOU\ProiectII\MVCFinalProject\MVCFinalProject - Copy\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\maria\Desktop\NOU NOU\ProiectII\MVCFinalProject\MVCFinalProject - Copy\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\maria\Desktop\NOU NOU\ProiectII\MVCFinalProject\MVCFinalProject - Copy\bin\roslyn\System.IO.Compression.dll
+C:\Users\maria\Desktop\NOU NOU\ProiectII\MVCFinalProject\MVCFinalProject - Copy\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\maria\Desktop\NOU NOU\ProiectII\MVCFinalProject\MVCFinalProject - Copy\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\maria\Desktop\NOU NOU\ProiectII\MVCFinalProject\MVCFinalProject - Copy\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\maria\Desktop\NOU NOU\ProiectII\MVCFinalProject\MVCFinalProject - Copy\bin\roslyn\System.Net.Http.dll
+C:\Users\maria\Desktop\NOU NOU\ProiectII\MVCFinalProject\MVCFinalProject - Copy\bin\roslyn\System.Net.Sockets.dll
+C:\Users\maria\Desktop\NOU NOU\ProiectII\MVCFinalProject\MVCFinalProject - Copy\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\maria\Desktop\NOU NOU\ProiectII\MVCFinalProject\MVCFinalProject - Copy\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\maria\Desktop\NOU NOU\ProiectII\MVCFinalProject\MVCFinalProject - Copy\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\maria\Desktop\NOU NOU\ProiectII\MVCFinalProject\MVCFinalProject - Copy\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\maria\Desktop\NOU NOU\ProiectII\MVCFinalProject\MVCFinalProject - Copy\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\maria\Desktop\NOU NOU\ProiectII\MVCFinalProject\MVCFinalProject - Copy\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\maria\Desktop\NOU NOU\ProiectII\MVCFinalProject\MVCFinalProject - Copy\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\maria\Desktop\NOU NOU\ProiectII\MVCFinalProject\MVCFinalProject - Copy\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\maria\Desktop\NOU NOU\ProiectII\MVCFinalProject\MVCFinalProject - Copy\bin\roslyn\System.ValueTuple.dll
+C:\Users\maria\Desktop\NOU NOU\ProiectII\MVCFinalProject\MVCFinalProject - Copy\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\maria\Desktop\NOU NOU\ProiectII\MVCFinalProject\MVCFinalProject - Copy\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\maria\Desktop\NOU NOU\ProiectII\MVCFinalProject\MVCFinalProject - Copy\bin\roslyn\System.Xml.XPath.dll
+C:\Users\maria\Desktop\NOU NOU\ProiectII\MVCFinalProject\MVCFinalProject - Copy\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\maria\Desktop\NOU NOU\ProiectII\MVCFinalProject\MVCFinalProject - Copy\bin\roslyn\vbc.exe
+C:\Users\maria\Desktop\NOU NOU\ProiectII\MVCFinalProject\MVCFinalProject - Copy\bin\roslyn\vbc.exe.config
+C:\Users\maria\Desktop\NOU NOU\ProiectII\MVCFinalProject\MVCFinalProject - Copy\bin\roslyn\vbc.rsp
+C:\Users\maria\Desktop\NOU NOU\ProiectII\MVCFinalProject\MVCFinalProject - Copy\bin\roslyn\VBCSCompiler.exe
+C:\Users\maria\Desktop\NOU NOU\ProiectII\MVCFinalProject\MVCFinalProject - Copy\bin\roslyn\VBCSCompiler.exe.config

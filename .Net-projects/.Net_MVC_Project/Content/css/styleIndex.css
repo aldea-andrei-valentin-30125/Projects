@@ -1,0 +1,230 @@
+.heart-btn-1{
+  position: absolute;
+  transform: translate(-50%,-50%);
+  background-color: transparent;
+  margin-top: 55px;
+}
+.content-1{
+  color: transparent;
+  padding: 0px 0px;
+  display: flex;
+  background-color: transparent;
+  
+}
+
+.heart-1{
+  position: absolute;
+  background: url("img.png") no-repeat;
+  background-position: left;
+  background-size: 2900%;
+  height: 90px;
+  width: 90px;
+  top: 50%;
+  left: 21%;
+  transform: translate(-50%,-50%);
+}
+
+.heart-1.heart-active{
+  animation: animate .8s steps(28) 1;
+  background-position: right;
+}
+
+.heart-btn-2{
+  position: absolute;
+  transform: translate(-50%,-50%);
+  background-color: transparent;
+  margin-top: 55px;
+}
+.content-2{
+  color: transparent;
+  padding: 0px 0px;
+  display: flex;
+  background-color: transparent;
+  
+}
+
+.heart-2{
+  position: absolute;
+  background: url("img.png") no-repeat;
+  background-position: left;
+  background-size: 2900%;
+  height: 90px;
+  width: 90px;
+  top: 50%;
+  left: 21%;
+  transform: translate(-50%,-50%);
+}
+
+.heart-2.heart-active{
+  animation: animate .8s steps(28) 1;
+  background-position: right;
+}
+.heart-btn-3{
+  position: absolute;
+  transform: translate(-50%,-50%);
+  background-color: transparent;
+  margin-top: 55px;
+}
+.content-3{
+  color: transparent;
+  padding: 0px 0px;
+  display: flex;
+  background-color: transparent;
+  
+}
+
+.heart-3{
+  position: absolute;
+  background: url("img.png") no-repeat;
+  background-position: left;
+  background-size: 2900%;
+  height: 90px;
+  width: 90px;
+  top: 50%;
+  left: 21%;
+  transform: translate(-50%,-50%);
+}
+
+.heart-3.heart-active{
+  animation: animate .8s steps(28) 1;
+  background-position: right;
+}
+
+
+.heart-btn-4{
+  position: absolute;
+  transform: translate(-50%,-50%);
+  background-color: transparent;
+  margin-top: 55px;
+}
+.content-4{
+  color: transparent;
+  padding: 0px 0px;
+  display: flex;
+  background-color: transparent;
+  
+}
+
+.heart-4{
+  position: absolute;
+  background: url("img.png") no-repeat;
+  background-position: left;
+  background-size: 2900%;
+  height: 90px;
+  width: 90px;
+  top: 50%;
+  left: 21%;
+  transform: translate(-50%,-50%);
+}
+
+.heart-4.heart-active{
+  animation: animate .8s steps(28) 1;
+  background-position: right;
+}
+
+
+.heart-btn-5{
+  position: absolute;
+  transform: translate(-50%,-50%);
+  background-color: transparent;
+  margin-top: 55px;
+}
+.content-5{
+  color: transparent;
+  padding: 0px 0px;
+  display: flex;
+  background-color: transparent;
+  
+}
+
+.heart-5{
+  position: absolute;
+  background: url("img.png") no-repeat;
+  background-position: left;
+  background-size: 2900%;
+  height: 90px;
+  width: 90px;
+  top: 50%;
+  left: 21%;
+  transform: translate(-50%,-50%);
+}
+
+.heart-5.heart-active{
+  animation: animate .8s steps(28) 1;
+  background-position: right;
+}
+@keyframes animate {
+  0%{
+    background-position: left;
+  }
+  100%{
+    background-position: right;
+  }
+}
+
+
+
+.heart-btn-6{
+  position: absolute;
+  transform: translate(-50%,-50%);
+  background-color: transparent;
+  margin-top: 55px;
+}
+.content-6{
+  color: transparent;
+  padding: 0px 0px;
+  display: flex;
+  background-color: transparent;
+  
+}
+
+.heart-6{
+  position: absolute;
+  background: url("img.png") no-repeat;
+  background-position: left;
+  background-size: 2900%;
+  height: 90px;
+  width: 90px;
+  top: 50%;
+  left: 21%;
+  transform: translate(-50%,-50%);
+}
+
+.heart-6.heart-active{
+  animation: animate .8s steps(28) 1;
+  background-position: right;
+}
+
+
+
+
+.heart-btn-7{
+  position: absolute;
+  transform: translate(-50%,-50%);
+  background-color: transparent;
+  margin-top: 55px;
+}
+.content-7{
+  color: transparent;
+  padding: 0px 0px;
+  display: flex;
+  background-color: transparent;
+  
+}
+
+.heart-7{
+  position: absolute;
+  background: url("img.png") no-repeat;
+  background-position: left;
+  background-size: 2900%;
+  height: 90px;
+  width: 90px;
+  top: 50%;
+  left: 21%;
+  transform: translate(-50%,-50%);
+}
+
+.heart-7.heart-active{
+  animation: animate .8s steps(28) 1;
+  background-position: right;
+}

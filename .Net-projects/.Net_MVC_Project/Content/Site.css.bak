@@ -1,0 +1,47 @@
+﻿html{
+  height:100%;
+  
+}
+body {
+  background-image: linear-gradient(#adcce9, #f1b5b8);
+  background-repeat: no repeat;
+}
+
+/* Set padding to keep content from hitting the edges */
+.body-content {
+  background-repeat: no repeat;
+}
+
+/* Override the default bootstrap behavior where horizontal description lists 
+   will truncate terms that are too long to fit in the left column 
+*/
+.dl-horizontal dt {
+    white-space: normal;
+}
+
+/* Set width on the form input elements since they're 100% wide by default */
+input,
+select,
+textarea {
+    max-width: 280px;
+}
+
+.formul{
+  margin-left: 30%;
+}
+
+.form-horizontal{
+  margin-top: 50px;
+}
+
+.imag {
+  border-radius: 100%;
+  width: 200px;
+  height: auto;
+  margin-left: 43%;
+}
+h1{
+  text-align: center;
+}
+
+

@@ -1,0 +1,30 @@
+D:\Microsoft visual studio\AldeaAndreiClient\AldeaAndreiClient\bin\Debug\AldeaAndreiClient.exe.config
+D:\Microsoft visual studio\AldeaAndreiClient\AldeaAndreiClient\bin\Debug\AldeaAndreiClient.exe
+D:\Microsoft visual studio\AldeaAndreiClient\AldeaAndreiClient\bin\Debug\AldeaAndreiClient.pdb
+D:\Microsoft visual studio\AldeaAndreiClient\AldeaAndreiClient\obj\Debug\AldeaAndreiClient.csproj.AssemblyReference.cache
+D:\Microsoft visual studio\AldeaAndreiClient\AldeaAndreiClient\obj\Debug\AldeaAndreiClient.csproj.SuggestedBindingRedirects.cache
+D:\Microsoft visual studio\AldeaAndreiClient\AldeaAndreiClient\obj\Debug\AldeaAndreiClient.Form1.resources
+D:\Microsoft visual studio\AldeaAndreiClient\AldeaAndreiClient\obj\Debug\AldeaAndreiClient.Properties.Resources.resources
+D:\Microsoft visual studio\AldeaAndreiClient\AldeaAndreiClient\obj\Debug\AldeaAndreiClient.csproj.GenerateResource.cache
+D:\Microsoft visual studio\AldeaAndreiClient\AldeaAndreiClient\obj\Debug\AldeaAndreiClient.csproj.CoreCompileInputs.cache
+D:\Microsoft visual studio\AldeaAndreiClient\AldeaAndreiClient\obj\Debug\AldeaAndreiClient.exe
+D:\Microsoft visual studio\AldeaAndreiClient\AldeaAndreiClient\obj\Debug\AldeaAndreiClient.pdb
+D:\Microsoft visual studio\AldeaAndreiClient\AldeaAndreiClient\bin\Debug\AldeaAndrei.dll
+D:\Microsoft visual studio\AldeaAndreiClient\AldeaAndreiClient\bin\Debug\AldeaAndrei.pdb
+D:\Microsoft visual studio\AldeaAndreiClient\AldeaAndreiClient\bin\Debug\AldeaAndrei.dll.config
+D:\Microsoft visual studio\AldeaAndreiClient\AldeaAndreiClient\obj\Debug\AldeaAndreiClient.csproj.CopyComplete
+D:\FACULTATE\AN3_2\II\AldeaAndreiClient\AldeaAndreiClient\bin\Debug\AldeaAndreiClient.exe.config
+D:\FACULTATE\AN3_2\II\AldeaAndreiClient\AldeaAndreiClient\bin\Debug\AldeaAndreiClient.exe
+D:\FACULTATE\AN3_2\II\AldeaAndreiClient\AldeaAndreiClient\bin\Debug\AldeaAndreiClient.pdb
+D:\FACULTATE\AN3_2\II\AldeaAndreiClient\AldeaAndreiClient\bin\Debug\AldeaAndrei.dll
+D:\FACULTATE\AN3_2\II\AldeaAndreiClient\AldeaAndreiClient\bin\Debug\AldeaAndrei.pdb
+D:\FACULTATE\AN3_2\II\AldeaAndreiClient\AldeaAndreiClient\bin\Debug\AldeaAndrei.dll.config
+D:\FACULTATE\AN3_2\II\AldeaAndreiClient\AldeaAndreiClient\obj\Debug\AldeaAndreiClient.csproj.AssemblyReference.cache
+D:\FACULTATE\AN3_2\II\AldeaAndreiClient\AldeaAndreiClient\obj\Debug\AldeaAndreiClient.csproj.SuggestedBindingRedirects.cache
+D:\FACULTATE\AN3_2\II\AldeaAndreiClient\AldeaAndreiClient\obj\Debug\AldeaAndreiClient.Form1.resources
+D:\FACULTATE\AN3_2\II\AldeaAndreiClient\AldeaAndreiClient\obj\Debug\AldeaAndreiClient.Properties.Resources.resources
+D:\FACULTATE\AN3_2\II\AldeaAndreiClient\AldeaAndreiClient\obj\Debug\AldeaAndreiClient.csproj.GenerateResource.cache
+D:\FACULTATE\AN3_2\II\AldeaAndreiClient\AldeaAndreiClient\obj\Debug\AldeaAndreiClient.csproj.CoreCompileInputs.cache
+D:\FACULTATE\AN3_2\II\AldeaAndreiClient\AldeaAndreiClient\obj\Debug\AldeaAndreiClient.csproj.CopyComplete
+D:\FACULTATE\AN3_2\II\AldeaAndreiClient\AldeaAndreiClient\obj\Debug\AldeaAndreiClient.exe
+D:\FACULTATE\AN3_2\II\AldeaAndreiClient\AldeaAndreiClient\obj\Debug\AldeaAndreiClient.pdb

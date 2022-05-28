@@ -1,0 +1,22 @@
+<html>
+    <head>
+        <script type="text/javascript" src="libs/vue.js"></script>
+        <script type="text/javascript" src="libs/axios.js"></script>
+    </head>
+    <body>
+        <a href="index.html">Home</a>
+        <div id="update">
+            Actualizare telefon cu id-ul: {{ id }} <br>
+            Name: <input type="text" v-model="phone.Name">
+            Price: <input type="text" v-model="phone.Price">
+            Discount: <input type="text" v-model="phone.Discount">
+            Description: <input type="text" v-model="phone.Description">
+            <button  v-on:click="update()">Save</button>
+
+            <p>{{message}}</p>
+
+        </div>
+
+        <script src="src/update.js"></script>
+    </body>
+</html>

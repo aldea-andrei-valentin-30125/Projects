@@ -1,0 +1,20 @@
+﻿@model MVCFinalProject.Models.Delivery
+@{
+    ViewBag.Title = "NewDelivery";
+}
+
+<h2>New Delivery</h2>
+
+@using (Html.BeginForm("Create", "Delivery"))
+{
+    <div class="form-group">
+        @Html.LabelFor(m => m.Name)
+        @Html.TextBoxFor(m => m.Name)
+
+    </div>
+
+    <button type="submit" class="btn btn-primary">
+        Add Delivery
+    </button>
+
+}

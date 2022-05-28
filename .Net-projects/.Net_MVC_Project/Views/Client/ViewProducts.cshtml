@@ -1,0 +1,187 @@
+﻿@model MVCFinalProject.ViewModels.RandomRestaurantViewModels
+
+@{
+    ViewBag.Title = "ViewProducts";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+@*
+    <h2>Restaurant name: @Model.Restaurant.Name</h2>
+    <br />
+    <h2>Restaurant Id: @Model.Restaurant.Id</h2>
+    <br />
+    <h2>Restaurant UserId: @Model.Restaurant.UserId</h2>
+    <br />*@
+
+
+<head>
+
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+    <link href="https://fonts.googleapis.com/css?family=Poppins:300,400,500,600,700,800,900" rel="stylesheet">
+
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
+    <link rel="stylesheet" href="~/Content/cssP/style.css">
+    <link rel="stylesheet" href="~/Content/cssP/Page-2.css">
+
+
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta charset="utf-8">
+    <meta name="keywords" content="">
+    <meta name="description" content="">
+    <meta name="page_type" content="np-template-header-footer-from-plugin">
+
+    <link rel="stylesheet" href="~/Content/cssP/nicepage.css" media="screen">
+
+    <script class="u-script" type="text/javascript" src="jsP/jquery.js" defer=""></script>
+    <script class="u-script" type="text/javascript" src="jsP/nicepage.js" defer=""></script>
+    <meta name="generator" content="Nicepage 4.8.2, nicepage.com">
+    <link id="u-theme-google-font" rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:100,100i,300,300i,400,400i,500,500i,700,700i,900,900i|Open+Sans:300,300i,400,400i,500,500i,600,600i,700,700i,800,800i">
+
+
+    <script type="application/ld+json">
+        {
+
+        }</script>
+
+    <meta name="theme-color" content="#478ac9">
+    <meta property="og:type" content="website">
+
+</head>
+
+
+
+@if (Model.Produse.Count == 0)
+{
+<div class="wrapper d-flex align-items-stretch">
+    <nav id="sidebar">
+
+        <div class="img bg-wrap text-center py-4">
+            <div class="user-logo">
+                <div class="img" style="background-image: url(/Content/images/logoo.jfif);"></div>
+                <h3>Model.Restaurant.Name</h3>
+            </div>
+        </div>
+        <ul class="list-unstyled components mb-5">
+            <li class="active">
+                @*<a href="#"><span class="fa fa-home mr-3"></span> Home</a>*@
+                @Html.ActionLink("Home", "Index")
+            </li>
+            <li>
+                @Html.ActionLink("My profile", "ChangePassword", "Manage")
+            </li>
+            <li>
+                @*<p><span class="fa fa-shopping-cart mr-3"></span>*@ @Html.ActionLink("My Order", "AddToCart", new { id = 0 })
+            </li>
+            <li>
+                @*<a href="#"><span class="fa fa-heart mr-3"></span> My Favorites</a>*@
+                @Html.ActionLink("My Favorites", "ViewFavorite")
+            </li>
+            <li>
+                @Html.ActionLink("Log off", "Login", "Account")
+            </li>
+        </ul>
+
+    </nav>
+
+    <div class="u-clearfix u-gradient u-section-1" id="content" class="p-4 p-md-5 pt-5">
+        <h3 class="u-align-center u-text u-text-default u-text-white u-text-1">There are no products for this restaurant!</h3>
+        </div>
+    </div>
+
+
+
+        }
+        else
+        {
+
+
+        <div class="wrapper d-flex align-items-stretch">
+            <nav id="sidebar">
+
+                <div class="img bg-wrap text-center py-4">
+                    <div class="user-logo">
+                        <div class="img" style="background-image: url(/Content/images/logoo.jfif);"></div>
+                        <h3>@Model.Restaurant.Name</h3>
+                    </div>
+                </div>
+                <ul class="list-unstyled components mb-5">
+                    <li class="active">
+                        @*<a href="#"><span class="fa fa-home mr-3"></span> Home</a>*@
+                        @Html.ActionLink("Home", "Index")
+                    </li>
+                    <li>
+                        @Html.ActionLink("My profile", "ChangePassword", "Manage")
+                    </li>
+                    <li>
+                        @*<p><span class="fa fa-shopping-cart mr-3"></span>*@ @Html.ActionLink("My Order", "AddToCart", new { id = 0 })
+                    </li>
+                    <li>
+                        @*<a href="#"><span class="fa fa-heart mr-3"></span> My Favorites</a>*@
+                        @Html.ActionLink("My Favorites", "ViewFavorite")
+                    </li>
+                    <li>
+                        @Html.ActionLink("Log off", "Login", "Account")
+                    </li>
+                </ul>
+
+            </nav>
+
+            <div class="u-clearfix u-gradient u-section-1" id="content" class="p-4 p-md-5 pt-5">
+
+                <h3 class="u-align-center u-text u-text-default u-text-white u-text-1">product list</h3>
+
+                <section>
+                    <div class="u-clearfix u-sheet u-sheet-1">
+
+                        <div class="u-expanded-width u-products u-products-1">
+                            <div class="u-repeater u-repeater-1">
+
+
+                                @foreach (var item in Model.Produse)
+                                {
+                                    <div class="u-align-center u-container-style u-products-item u-repeater-item u-white">
+                                        <div class="u-container-layout u-similar-container u-container-layout-7">
+                                            <h4 class="u-align-center u-product-control u-text u-text-6">@Html.DisplayFor(modelItem => item.Name)</h4>
+                                            <div class="u-product-control u-product-price u-product-price-4">
+                                                <div class="u-price-wrapper u-spacing-10">
+                                                    <div class="u-price u-text-palette-2-base" style="position:relative; left:20px; top:60px; font-size: 1.875rem; font-weight: 700;">$@Html.DisplayFor(modelItem => item.Price)</div>
+                                                </div>
+                                            </div>
+                                            <button class="u-btn u-button-style u-hover-palette-1-dark-1 u-palette-1-base u-product-control u-btn-10">
+                                                <span class="fa fa-shopping-cart mr-3"></span> @Html.ActionLink("Add to cart", "AddToCart", new { id = item.Id })
+                                            </button>
+                                            <br>
+                                        </div>
+                                    </div>
+                                }
+                                @*
+                                    <tr>
+                                        <td>
+                                            @Html.DisplayFor(modelItem => item.RestaurantId)
+                                        </td>
+                                        <td>
+                                            @Html.DisplayFor(modelItem => item.Name)
+                                        </td>
+                                        <td>
+                                            @Html.DisplayFor(modelItem => item.Price)
+                                        </td>
+                                        <td>
+                                            @Html.DisplayFor(modelItem => item.Id)
+                                        </td>
+                                        <td>
+                                            @Html.ActionLink("Add to cart", "AddToCart", new { id = item.Id })
+                                        </td>
+                                    </tr>*@
+
+
+                            </div>
+                        </div>
+                    </div>
+                </section>
+            </div>
+        </div>
+        }
+

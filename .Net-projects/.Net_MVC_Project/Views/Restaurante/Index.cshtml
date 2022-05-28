@@ -1,0 +1,78 @@
+﻿@model MVCFinalProject.ViewModels.RandomRestaurantViewModels
+@{
+    ViewBag.Title = "RestaurantView";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<head>
+    <link rel="stylesheet" href="~/Content/css/rest1.css">
+</head>
+
+<img class="img_logo" alt="Logo" src="@Url.Content("~/Content/logo1.jpeg")" />
+   @Html.ActionLink("Log off", "Login", "Account")   
+<h1 class="bv">WELCOME BACK !!</h1>
+
+<h2 class="new_product">Restaurant: @Model.Restaurant.Name</h2>
+<br />
+
+
+
+
+<p align="center">
+
+
+
+    @Html.ActionLink("Create New Product", "NewProduct", null, new { @class = "btn" })
+    <br />
+
+    @if (Model.Produse.Count == 0)
+    {
+    <p align="center"> Nu exista produse pentru acest restaurant</p>
+}
+else
+{
+
+    <table class="table">
+        <tr>
+            <th>
+                <p>RestaurantID</p>
+            </th>
+            <th>
+                <p>Name</p>
+            </th>
+            <th>
+                <p>Price</p>
+            </th>
+            <th>
+                <p>ID</p>
+            </th>
+            <th></th>
+            <th></th>
+        </tr>
+
+        @foreach (var item in Model.Produse)
+        {
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => item.RestaurantId)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Name)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Price)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Id)
+                </td>
+                <td>
+                    @Html.ActionLink("Delete", "DeleteProduct", new { id = item.Id }, new { @class = "btn" })
+                </td>
+                <td>
+                    @Html.ActionLink("Edit", "EditProduct", new { id = item.Id }, new { @class = "btn" })
+                </td>
+            </tr>
+        }
+
+    </table>
+}

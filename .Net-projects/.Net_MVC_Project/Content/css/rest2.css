@@ -1,0 +1,51 @@
+body,html {height:100%;overflow:hidden;}
+
+
+body {
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  background-image: linear-gradient(#adcce9, #f1b5b8);
+  
+}
+.img_logo { width: 150px; 
+    height: 150px; 
+    border-radius: 50%;
+   }
+.btn{
+ 
+    background-color: #c5a5c5;
+    border-radius: 100px;
+    box-shadow: rgb(0, 0, 0) 0 -25px 18px -14px inset,rgb(0, 0, 0) 0 1px 2px,rgb(0, 0, 0) 0 2px 4px,#D2DFE0 0 4px 8px,#D2DFE0 0 8px 16px,#D2DFE0 0 16px 32px;
+    color: rgb(0, 0, 0);
+    cursor: pointer;
+    display:inline-table;
+    font-family: CerebriSans-Regular,-apple-system,system-ui,Roboto,sans-serif;
+    padding: 7px 20px;
+    text-align: center;
+    text-decoration: none;
+    transition: all 250ms;
+    border: 0;
+    font-size: 16px;
+    user-select: none;
+    -webkit-user-select: none;
+    touch-action: manipulation;
+    align-items: center;
+   text-align: center;
+  }
+
+  .right {
+	color: black;
+	font-family: Verdana, Geneva, Tahoma, sans-serif;
+  text-shadow: 5px 5px 5px #b5b6ce,
+               5px 5px 5px #bbbcd3;
+  text-align: center;
+
+
+}
+.center{ text-align: center;
+
+}
+.new_rest{
+    text-align: center;
+}

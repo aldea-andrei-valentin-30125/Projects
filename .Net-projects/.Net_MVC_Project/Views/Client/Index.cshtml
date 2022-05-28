@@ -1,0 +1,173 @@
+﻿@model MVCFinalProject.ViewModels.RestauranteClientViewModel
+
+
+@{
+    ViewBag.Title = "View";
+
+}
+
+<head>
+
+    <link href="https://fonts.googleapis.com/css?family=Poppins:300,400,500,600,700,800,900" rel="stylesheet">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
+    <link rel="stylesheet" href="~/Content/css/styleIndex.css">
+    <link rel="stylesheet" href="~/Content/css/styleee.css">
+    <link rel="stylesheet" href="~/Content/css/Post-Template.css">
+
+
+    <link rel="stylesheet" href="~/Content/css/nicepage.css" media="screen">
+
+
+    <script class="u-script" type="text/javascript" src="~/Content/js/jquery.min.js"></script>
+    <script class="u-script" type="text/javascript" src="~/Content/js/popper.js"></script>
+    <script class="u-script" type="text/javascript" src="~/Content/js/bootstrap.min.js"></script>
+    <script class="u-script" type="text/javascript" src="~/Content/js/main.js"></script>
+
+    <meta name="generator" content="Nicepage 4.8.2, nicepage.com">
+    <link id="u-theme-google-font" rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:100,100i,300,300i,400,400i,500,500i,700,700i,900,900i|Open+Sans:300,300i,400,400i,500,500i,600,600i,700,700i,800,800i">
+
+    <meta name="theme-color" content="#478ac9">
+    <meta property="og:type" content="website">
+</head>
+
+<body class="pag">
+    @if (Model.Restaurante.Count == 0)
+    {
+        <div class="wrapper d-flex align-items-stretch">
+            <nav id="sidebar">
+
+                <div class="img bg-wrap text-center py-4">
+                    <div class="user-logo">
+                        <div class="img" style="background-image: url(/Content/images/logoo.jfif);"></div>
+                        <h3>@Model.Clienti.Name</h3>
+                    </div>
+                </div>
+                <ul class="list-unstyled components mb-5">
+                    <li class="active">
+                        @*<a href="#"><span class="fa fa-home mr-3"></span> Home</a>*@
+                        @Html.ActionLink("Home", "Index")
+                    </li>
+                    <li>
+                        @Html.ActionLink("My profile", "ChangePassword", "Manage")
+                    </li>
+                    <li>
+                        @*<p><span class="fa fa-shopping-cart mr-3"></span>*@ @Html.ActionLink("My Order", "AddToCart", new { id = 0 })
+                    </li>
+                    <li>
+                        @*<a href="#"><span class="fa fa-heart mr-3"></span> My Favorites</a>*@
+                        @Html.ActionLink("My Favorites", "ViewFavorite")
+                    </li>
+                    <li>
+                        @Html.ActionLink("Log off","Login","Account")
+                    </li>
+                </ul>
+
+            </nav>
+
+            <div class="u-clearfix u-gradient u-section-1" id="content" class="p-4 p-md-5 pt-5">
+                <h3 class="u-align-center u-text u-text-default u-text-white u-text-1">There are no restaurants!</h3>
+            </div>
+        </div>
+
+    }
+    else
+    {
+        <div class="wrapper d-flex align-items-stretch">
+            <nav id="sidebar">
+
+                <div class="img bg-wrap text-center py-4">
+                    <div class="user-logo">
+                        <div class="img" style="background-image: url(/Content/images/logoo.jfif);"></div>
+                        <h3>@Model.Clienti.Name</h3>
+                    </div>
+                </div>
+                <ul class="list-unstyled components mb-5">
+                    <li class="active">
+                        @*<a href="#"><span class="fa fa-home mr-3"></span> Home</a>*@
+                        @Html.ActionLink("Home", "Index")
+                    </li>
+                    <li>
+                        @Html.ActionLink("My profile", "ChangePassword", "Manage")
+                    </li>
+                    <li>
+                        @*<p><span class="fa fa-shopping-cart mr-3">@Html.ActionLink("My Order", "AddToCart", new { id = 0 })  </span>*@ @Html.ActionLink("My Order", "AddToCart", new { id = 0 })
+                    </li>
+                    <li>
+                        @*<a href="#"><span class="fa fa-heart mr-3"></span> My Favorites</a>*@
+                        @Html.ActionLink("My Favorites", "ViewFavorite")
+                    </li>
+                    <li>
+
+
+                        @Html.ActionLink("Log off", "Login", "Account")
+
+
+                    </li>
+                </ul>
+
+            </nav>
+
+
+
+            <div class="u-clearfix u-gradient u-section-1" id="content" class="p-4 p-md-5 pt-5">
+                <p style="text-align:center" class="mb-4">What restaurant are you looking for?</p>
+                <div class="search__container">
+                    @using (Html.BeginForm("Search", "Client"))
+                    {
+                        @Html.TextBox("SearchName", null, new { @class = "search__input" })
+                        <input style="visibility: hidden" type="submit" value="Search" />
+                    }
+
+                </div>
+                <br>
+
+
+                <section id="carousel_3e4e">
+                    <div class="u-clearfix u-sheet u-sheet-1">
+                        <div class="u-expanded-width u-list u-list-1">
+                            <div id="aici" class="u-repeater u-repeater-1">
+
+
+
+                                @foreach (var item in Model.Restaurante)
+                                {
+
+                                    <div class="u-container-style u-list-item u-repeater-item u-white u-list-item-1">
+                                        <div class="u-container-layout u-similar-container u-container-layout-1">
+                                            <img class="u-expanded-width u-image u-image-default u-image-2" src="/Content/images/2.jfif" alt="" data-image-width="1536" data-image-height="960">
+
+                                            <h3 class="u-text u-text-default u-text-4">@Html.DisplayFor(modelItem => item.Name)</h3>
+
+                                            <div class="orice">
+                                                @Html.ActionLink("View Products", "ViewProducts", new { id = item.Id }, new { @class = "u-border-none u-btn u-button-style u-hover-palette-1-light-1 u-palette-1-dark-1 u-btn-2" })
+
+                                                <h4 class="u-text u-text-default u-text-palette-1-base u-text-6">
+                                                    <div class="heart-btn-2">
+
+
+
+                                                        @Html.ActionLink("Favorites", "AddToFavorite", new { id = item.Id })
+
+                                                    </div>
+
+                                                </h4>
+
+
+
+                                            </div>
+
+                                        </div>
+                                    </div>
+
+                                }
+                            </div>
+
+                        </div>
+                    </div>
+                </section>
+            </div>
+        </div>
+    }
+
+</body>
