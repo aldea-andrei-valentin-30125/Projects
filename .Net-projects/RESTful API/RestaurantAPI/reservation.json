@@ -1,0 +1,28 @@
+[
+  {
+    "Id": 1,
+    "ReservationName": "Andrei",
+    "Seats": 9,
+    "ReservationDate": "2008-11-11T13:23:44",
+    "Table": {
+      "Id": 1,
+      "Restaurant": null,
+      "Employee": null,
+      "Seats": 8,
+      "OccupiedSeats": 0
+    }
+  },
+  {
+    "Id": 2,
+    "ReservationName": "Mirecea",
+    "Seats": 8,
+    "ReservationDate": "2008-11-11T13:23:44",
+    "Table": {
+      "Id": 2,
+      "Restaurant": null,
+      "Employee": null,
+      "Seats": 10,
+      "OccupiedSeats": 0
+    }
+  }
+]
